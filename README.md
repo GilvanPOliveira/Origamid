@@ -38,7 +38,7 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 
 <!--![WildBeast_Figma](https://i.imgur.com/n8NVvnN.png)-->
 
-📌 Surfbot: https://imgur.com/fXUKJOA
+📌 Surfbot (Html e Css): https://imgur.com/fXUKJOA
 
 <!--![SufBot_Figma](https://i.imgur.com/fXUKJOA.png)-->
 
