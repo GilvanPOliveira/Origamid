@@ -18,29 +18,29 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 
 ## Projetos em idealização (Figma):
 
-📌 Portifólio (Html e Css):
+📌 Portifólio (Html e Css): https://imgur.com/vBmNsUw
 
-![Portifolio_Figma](https://i.imgur.com/vBmNsUw.png)
+<!--![Portifolio_Figma](https://i.imgur.com/vBmNsUw.png)-->
 
-📌 Bikcraft (FlexBox): 
+📌 Bikcraft (FlexBox): https://imgur.com/2ezUqtv
 
-![Bikcraft_FlexBox_Figma](https://i.imgur.com/2ezUqtv.png)
+<!--![Bikcraft_FlexBox_Figma](https://i.imgur.com/2ezUqtv.png)-->
 
-📌 Bikcraft (Html,Css e Js:
+📌 Bikcraft (Html,Css e Js): https://imgur.com/oFDF9r2
 
-![Bikcraft_Figma](https://i.imgur.com/oFDF9r2.jpg)
+<!--![Bikcraft_Figma](https://i.imgur.com/oFDF9r2.jpg)-->
 
-📌 FlexBlog (Css Flexbox): 
+📌 FlexBlog (Css Flexbox): https://imgur.com/T7hJyrp
 
-![FlexBlog_Figma](https://i.imgur.com/T7hJyrp.png)
+<!--![FlexBlog_Figma](https://i.imgur.com/T7hJyrp.png)-->
 
-📌 WildBeast (Css Grid Layout): 
+📌 WildBeast (Css Grid Layout): https://imgur.com/n8NVvnN
 
-![WildBeast_Figma](https://i.imgur.com/n8NVvnN.png)
+<!--![WildBeast_Figma](https://i.imgur.com/n8NVvnN.png)-->
 
-📌 Surfbot: 
+📌 Surfbot: https://imgur.com/fXUKJOA
 
-![SufBot_Figma](https://i.imgur.com/fXUKJOA.png)
+<!--![SufBot_Figma](https://i.imgur.com/fXUKJOA.png)-->
 
 ## Grade do Curso:
 
