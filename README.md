@@ -8,7 +8,7 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 
 📌 Bikcraft (FlexBox): https://origamid-projetos-bikcraft-flexbox.vercel.app/
 
-📌 Bikcraft (Html,Css e Js): https://origamid-projetos-bikcraft.vercel.app/
+📌 Bikcraft (Html, Css e Js): https://origamid-projetos-bikcraft.vercel.app/
 
 📌 FlexBlog (Css Flexbox): https://origamid-projetos-css-flexbox.vercel.app/
 
@@ -26,7 +26,7 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 
 <!--![Bikcraft_FlexBox_Figma](https://i.imgur.com/2ezUqtv.png)-->
 
-📌 Bikcraft (Html,Css e Js): https://imgur.com/oFDF9r2
+📌 Bikcraft (Html, Css e Js): https://imgur.com/oFDF9r2
 
 <!--![Bikcraft_Figma](https://i.imgur.com/oFDF9r2.jpg)-->
 
