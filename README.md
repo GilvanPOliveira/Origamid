@@ -18,7 +18,7 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 
 ## Projetos em idealização (Figma):
 
-📌 Portifólio (Html e Css): https://imgur.com/vBmNsUw
+📌 Portifólio (Html e Css): !https://imgur.com/vBmNsUw
 
 📌 Bikcraft (FlexBox): https://imgur.com/2ezUqtv
 
