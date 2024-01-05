@@ -1,0 +1,107 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2rem;
+} 
+
+label {
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+input {
+  font-size: 1.2rem;
+  padding: 10px;
+}
+
+button {
+  margin-top: 30px;
+  display: block;
+}
+
+.checkbox, .radio {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.checkbox label, .radio label {
+  margin: 0px;
+  display: inline-block;
+}
+
+.checkbox input, .radio input {
+  margin: 0px;
+  width: 20px;
+  height: 20px;
+}
+
+select {
+  font-size: 1.2rem;
+  padding: 10px;
+}
+
+textarea {
+  font-size: 1.2rem;
+}
+
+button {
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  background: #caf;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 30px;
+}
+
+[required] { /* p[required] tem de usar colado, pois com espaço é qualquer um dentro do p e não esse em questão*/
+  border: 2px solid tomato;
+}
+
+[href='#contato'] { /*a[href='#contato'] tem de usar colado, pois com espaço é qualquer um dentro do a e não esse em questão*/
+  border: 2px solid greenyellow;
+}
+
+/* pintar iniciando com # */
+[href^='#'] {
+  background: tomato;
+}
+
+/* pintar terminando com # */
+[href$='.com'] {
+  background: forestgreen;
+}
+
+section > h2 { /* selecionando h2 filho de section */
+  color: tomato;
+}
+
+p {
+  margin: 0px;
+}
+
+article {
+  background: lightgreen;
+  padding: 10px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+article p:last-child { /* selecionar o ultimo filho */
+  margin-bottom: 0px;
+}
+
+/* se não houver p acima dele, ele executa o comando */
+p + p {
+  margin-top: 20px;
+}
+
+* { /* seleciona tudo da pagina */
+  border: 2px solid red;
+}

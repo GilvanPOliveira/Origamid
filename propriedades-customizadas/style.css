@@ -1,0 +1,70 @@
+/*
+h1 {
+  --roxo: #84e
+  color: var(--roxo);
+}
+
+p {
+  color: var(--roxo) /* P não herda roxo, pois esta fora de h1 
+}
+*/
+
+/*
+:root { /* ou html, serve pra abrangir a página como um todo 
+  --cor-primaria: #84e;
+  --borda: 4px solid blue;
+  --fonte-grande: 3rem;
+}
+
+h1 {
+  --cor-primaria: #222;
+  font-size: var(--fonte-grande) / 2;
+  margin-top: var(--fonte-grande);
+  color: var(--cor-primaria);
+
+  p {
+  --cor-primaria: #222;
+  font-size: calc(var(--fonte-grande) / 2 );
+  margin-top: var(--fonte-grande);
+  color: var(--cor-primaria);
+}
+}
+*/
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --cor-primaria: #84e;
+    --borda: 4px solid blue;
+    --fonte-grande: 3rem;
+    --fundo: #fff;
+    --text-1: #111;
+    --text-2: #444;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --cor-primaria: #84e;
+    --borda: 4px solid blue;
+    --fonte-grande: 3rem;
+    --fundo: #222;
+    --text-1: #eee;
+    --text-2: #bbb;
+  }
+}
+
+body {
+  font-size: 1.2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  background: var(--fundo);
+}
+
+h1 {
+  color: var(--text-1);
+}
+
+p {
+  color: var(--text-2);
+}
+
+/* Modo claro e Modo escuro */
