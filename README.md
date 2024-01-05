@@ -20,7 +20,7 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 
 📌 Portifólio (Html e Css): ![Portifolio_Figma](https://imgur.com/vBmNsUw)
 
-📌 Bikcraft (FlexBox): ![Bikcraft_FlexBox_Figma](https://imgur.com/2ezUqtv)
+📌 Bikcraft (FlexBox): ![Bikcraft_FlexBox_Figma](https://i.imgur.com/2ezUqtv.png)
 
 📌 Bikcraft (Html,Css e Js: ![Bikcraft_Figma](https://imgur.com/rA3mbyg)
 
