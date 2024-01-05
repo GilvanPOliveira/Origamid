@@ -4,12 +4,12 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 
 Projetos em execução:
 
-- Bikcraft:
-- Bikcraft (FlexBox):
-- Portifólio:
-- FlexBlog (Css Flexbox):
-- WildBeast (Css Grid Layout):
-- Surfbot:
+📌 Bikcraft:
+📌 Bikcraft (FlexBox):
+📌 Portifólio:
+📌 FlexBlog (Css Flexbox):
+📌 WildBeast (Css Grid Layout):
+📌 Surfbot:
 
 Grade de Cursos
 
