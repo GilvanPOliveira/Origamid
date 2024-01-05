@@ -3,8 +3,10 @@
 Repositório com arquivos criados durante as aulas, apenas para reforço do conhecimento adquirido e projetos desenvolvidos em execução.
 
 ##
+
 <br>
 <br>
+
 ## Projetos em execução:
 
 📌 Portifólio (Html e Css): https://origamid-projetos-portifolio.vercel.app/
@@ -20,8 +22,10 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 📌 Surfbot (Html e Css): https://origamid-projetos-surfbot.vercel.app/
 
 ##
+
 <br>
 <br>
+
 ## Projetos em idealização (Figma):
 
 📌 Portifólio (Html e Css): https://imgur.com/vBmNsUw
@@ -49,8 +53,10 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 <!--![SufBot_Figma](https://i.imgur.com/fXUKJOA.png)-->
 
 ##
+
 <br>
 <br>
+
 ## Grade do Curso:
 
 [ X ] - 01 - UI Design para Iniciantes
