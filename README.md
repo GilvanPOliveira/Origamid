@@ -2,7 +2,7 @@
 
 Repositório com arquivos criados durante as aulas, apenas para reforço do conhecimento adquirido e projetos desenvolvidos em execução.
 
-Projetos em execução:
+## Projetos em execução:
 
 📌 Portifólio (Html e Css): https://origamid-projetos-portifolio.vercel.app/
 
@@ -16,7 +16,21 @@ Projetos em execução:
 
 📌 Surfbot: https://origamid-projetos-surfbot.vercel.app/
 
-Grade do Curso:
+## Projetos em idealização (Figma):
+
+📌 Portifólio (Html e Css): https://imgur.com/vBmNsUw
+
+📌 Bikcraft (FlexBox): https://imgur.com/2ezUqtv
+
+📌 Bikcraft (Html,Css e Js: https://imgur.com/rA3mbyg
+
+📌 FlexBlog (Css Flexbox): https://imgur.com/T7hJyrp
+
+📌 WildBeast (Css Grid Layout): https://imgur.com/n8NVvnN
+
+📌 Surfbot: https://imgur.com/fXUKJOA
+
+## Grade do Curso:
 
 [ X ] - 01 - UI Design para Iniciantes
 
