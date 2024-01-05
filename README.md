@@ -5,10 +5,15 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 Projetos em execução:
 
 📌 Portifólio (Html e Css): https://origamid-projetos-portifolio.vercel.app/
+
 📌 Bikcraft (FlexBox): https://origamid-projetos-bikcraft-flexbox.vercel.app/
+
 📌 Bikcraft (Html,Css e Js: https://origamid-projetos-bikcraft.vercel.app/
+
 📌 FlexBlog (Css Flexbox): https://origamid-projetos-css-flexbox.vercel.app/
+
 📌 WildBeast (Css Grid Layout): https://origamid-projetos-wildbeast.vercel.app/
+
 📌 Surfbot: https://origamid-projetos-surfbot.vercel.app/
 
 Grade de Cursos
