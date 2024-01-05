@@ -2,6 +2,8 @@
 
 Repositório com arquivos criados durante as aulas, apenas para reforço do conhecimento adquirido e projetos desenvolvidos em execução.
 
+##
+
 ## Projetos em execução:
 
 📌 Portifólio (Html e Css): https://origamid-projetos-portifolio.vercel.app/
@@ -15,6 +17,8 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 📌 WildBeast (Css Grid Layout): https://origamid-projetos-wildbeast.vercel.app/
 
 📌 Surfbot (Html e Css): https://origamid-projetos-surfbot.vercel.app/
+
+##
 
 ## Projetos em idealização (Figma):
 
@@ -41,6 +45,8 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 📌 Surfbot (Html e Css): https://imgur.com/fXUKJOA
 
 <!--![SufBot_Figma](https://i.imgur.com/fXUKJOA.png)-->
+
+##
 
 ## Grade do Curso:
 
