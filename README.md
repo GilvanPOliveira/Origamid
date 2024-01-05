@@ -22,7 +22,7 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 <br>
 <br>
 
-## Projetos em idealização (Figma):
+## Projetos idealizados no Figma:
 
 📌 Portifólio (Html e Css): https://imgur.com/vBmNsUw
 
