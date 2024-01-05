@@ -18,17 +18,29 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 
 ## Projetos em idealização (Figma):
 
-📌 Portifólio (Html e Css): ![Portifolio_Figma](https://imgur.com/vBmNsUw)
+📌 Portifólio (Html e Css):
 
-📌 Bikcraft (FlexBox): ![Bikcraft_FlexBox_Figma](https://i.imgur.com/2ezUqtv.png)
+![Portifolio_Figma](https://i.imgur.com/vBmNsUw.png)
 
-📌 Bikcraft (Html,Css e Js: ![Bikcraft_Figma](https://imgur.com/rA3mbyg)
+📌 Bikcraft (FlexBox): 
 
-📌 FlexBlog (Css Flexbox): ![FlexBlog_Figma](https://imgur.com/T7hJyrp)
+![Bikcraft_FlexBox_Figma](https://i.imgur.com/2ezUqtv.png)
 
-📌 WildBeast (Css Grid Layout): ![WildBeast_Figma](https://imgur.com/n8NVvnN)
+📌 Bikcraft (Html,Css e Js:
 
-📌 Surfbot: ![SufBot_Figma](https://imgur.com/fXUKJOA)
+![Bikcraft_Figma](https://i.imgur.com/oFDF9r2.jpg)
+
+📌 FlexBlog (Css Flexbox): 
+
+![FlexBlog_Figma](https://i.imgur.com/T7hJyrp.png)
+
+📌 WildBeast (Css Grid Layout): 
+
+![WildBeast_Figma](https://i.imgur.com/n8NVvnN.png)
+
+📌 Surfbot: 
+
+![SufBot_Figma](https://i.imgur.com/fXUKJOA.png)
 
 ## Grade do Curso:
 
