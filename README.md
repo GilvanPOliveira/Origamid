@@ -16,7 +16,7 @@ Projetos em execução:
 
 📌 Surfbot: https://origamid-projetos-surfbot.vercel.app/
 
-Grade de Cursos
+Grade do Curso:
 
 [ X ] - 01 - UI Design para Iniciantes
 
