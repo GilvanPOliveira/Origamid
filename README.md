@@ -7,17 +7,17 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 
 ## Projetos em execução:
 
-📌 Portifólio (Html e Css): https://origamid-projetos-portifolio.netlify.app/
+📌 Portifólio (Html e Css): https://origamid-projeto-portifolio.netlify.app/
 
-📌 Bikcraft (FlexBox): https://origamid-projetos-flexbox-bikcraft.vercel.app/
+📌 Bikcraft (FlexBox): https://origamid-projeto-flexbox-bikcraft.netlify.app/
 
-📌 Bikcraft (Html, Css e Js): https://origamid-projetos-bikcraft.vercel.app/
+📌 Bikcraft (Html, Css e Js): https://origamid-projeto-bikcraft.vercel.app/
 
-📌 FlexBlog (Css Flexbox): https://origamid-projetos-flexblog.vercel.app/
+📌 FlexBlog (Css Flexbox): https://origamid-projeto-flexblog.netlify.app/
 
-📌 WildBeast (Css Grid Layout): https://origamid-projetos-wildbeast.netlify.app/
+📌 WildBeast (Css Grid Layout): https://origamid-projeto-wildbeast.vercel.app/
 
-📌 Surfbot (Html e Css): https://origamid-projetos-surfbot.netlify.app/
+📌 Surfbot (Html e Css): https://origamid-projeto-surfbot.vercel.app/
 
 <br>
 <br>
