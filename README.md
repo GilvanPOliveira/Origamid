@@ -13,7 +13,7 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 
 📌 Bikcraft (Html, Css e Js): https://origamid-projetos-bikcraft.vercel.app/
 
-📌 FlexBlog (Css Flexbox):
+📌 FlexBlog (Css Flexbox): https://origamid-projetos-flexblog.vercel.app/
 
 📌 WildBeast (Css Grid Layout): https://origamid-projetos-wildbeast.netlify.app/
 
