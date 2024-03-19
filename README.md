@@ -7,6 +7,8 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 
 ## Projetos em execução:
 
+📌 Animais Fantásticos (React e Javascript): https://origamid-projeto-animais-fantasticos.vercel.app/
+
 📌 Portifólio (Html e Css): https://origamid-projeto-portifolio.netlify.app/
 
 📌 Bikcraft (FlexBox): https://origamid-projeto-flexbox-bikcraft.netlify.app/
