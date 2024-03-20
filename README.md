@@ -7,7 +7,7 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 
 ## Projetos em execução:
 
-📌 Animais Fantásticos (React e Javascript): 
+📌 Animais Fantásticos (React e Javascript): https://origamid-projeto-animais-fantasticos.netlify.app/
 
 📌 Portifólio (Html e Css): https://origamid-projeto-portifolio.netlify.app/
 
