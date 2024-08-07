@@ -1,71 +1,70 @@
 # Origamid
 
+<br>
+
 Repositório com arquivos criados durante as aulas, apenas para reforço do conhecimento adquirido e projetos desenvolvidos em execução.
 
-<br>
 <br>
 
 ## Projetos em execução:
 
-📌 Animais Fantásticos (React e Javascript): https://origamid-projeto-animais-fantasticos.netlify.app/
+📌 React e JavaScript: [Animais Fantásticos](https://origamid-projeto-animais-fantasticos.netlify.app/) 
 
-📌 Portifólio (Html e Css): https://origamid-projeto-portifolio.netlify.app/
+📌 Html e Css: [Portifólio](https://origamid-projeto-portifolio.netlify.app/)
 
-📌 Bikcraft (FlexBox): https://origamid-projeto-flexbox-bikcraft.netlify.app/
+📌 FlexBox: [Bikcraft](https://origamid-projeto-flexbox-bikcraft.netlify.app/)
 
-📌 Bikcraft (Html, Css e Js): https://origamid-projeto-bikcraft.vercel.app/
+📌 Html, Css e JavaScript: [Bikcraft](https://origamid-projeto-bikcraft.vercel.app/) 
 
-📌 FlexBlog (Css Flexbox): https://origamid-projeto-flexblog.netlify.app/
+📌 Css Flexbox: [FlexBlog](https://origamid-projeto-flexblog.netlify.app/) 
 
-📌 WildBeast (Css Grid Layout): https://origamid-projeto-wildbeast.vercel.app/
+📌 Css Grid Layout: [WildBeast](https://origamid-projeto-wildbeast.vercel.app/)
 
-📌 Surfbot (Html e Css): https://origamid-projeto-surfbot.vercel.app/
+📌 Html e Css: [Surfbot](https://origamid-projeto-surfbot.vercel.app/)
 
-<br>
 <br>
 
 ## Projetos idealizados no Figma:
 
-📌 Portifólio (Html e Css): https://imgur.com/vBmNsUw
+📌 Html e Css: [Portifólio](https://imgur.com/vBmNsUw)
 
 <!--![Portifolio_Figma](https://i.imgur.com/vBmNsUw.png)-->
 
-📌 Bikcraft (FlexBox): https://imgur.com/2ezUqtv
+📌 FlexBox: [Bikcraft](https://imgur.com/2ezUqtv)
 
 <!--![Bikcraft_FlexBox_Figma](https://i.imgur.com/2ezUqtv.png)-->
 
-📌 Bikcraft (Html, Css e Js): https://imgur.com/oFDF9r2
+📌 Html, Css e JavaScript: [Bikcraft](https://imgur.com/oFDF9r2) 
 
 <!--![Bikcraft_Figma](https://i.imgur.com/oFDF9r2.jpg)-->
 
-📌 FlexBlog (Css Flexbox): https://imgur.com/T7hJyrp
+📌 Css Flexbox: [FlexBlog](https://imgur.com/T7hJyrp) 
 
 <!--![FlexBlog_Figma](https://i.imgur.com/T7hJyrp.png)-->
 
-📌 WildBeast (Css Grid Layout): https://imgur.com/n8NVvnN
+📌 Css Grid Layout: [WildBeast](https://imgur.com/n8NVvnN) 
 
 <!--![WildBeast_Figma](https://i.imgur.com/n8NVvnN.png)-->
 
-📌 Surfbot (Html e Css): https://imgur.com/fXUKJOA
+📌 Html e Css: [Surfbot](https://imgur.com/fXUKJOA) 
 
 <!--![SufBot_Figma](https://i.imgur.com/fXUKJOA.png)-->
 
 <br>
-<br>
 
 ## Grade do Curso:
 
-[ X ] - 01 - UI Design para Iniciantes
+[ X ] - 01 - [UI Design para Iniciantes](https://drive.google.com/file/d/1MGM5j8YMlk-k0Wyc4wwItpuW2_9kPNMy/view?usp=drive_link)
 
-[ X ] - 02 - HTML e CSS para Iniciantes
+[ X ] - 02 - [HTML e CSS para Iniciantes](https://drive.google.com/file/d/1MGrivwiIzcl94sV6W5MWEKTkXB4eHSTy/view?usp=drive_link)
 
-[ X ] - 03 - CSS Flexbox
+[ X ] - 03 - [CSS Flexbox](https://drive.google.com/file/d/1GNaesjFDzPFSebE1Sgy7bMsyV9uJdnuR/view?usp=drive_link)
 
-[ X ] - 04 - CSS Grid Layout
+[ X ] - 04 - [CSS Grid Layout](https://drive.google.com/file/d/11fhAHKYyH14t_1k9fe5fDn3zj5_kMASB/view?usp=drive_link)
 
-[ X ] - 05 - UI Design Avançado
+[ X ] - 05 - [UI Design Avançado](https://drive.google.com/file/d/1gegBpHRFH7VxZX_bD-YaA4SStzix3pw7/view?usp=drive_link)
 
-[ ] - 06 - JavaScript Completo ES6
+[ X ] - 06 - [JavaScript Completo ES6](https://drive.google.com/file/d/1UDAqwzzQtbmyHHnsl5KCWBDLNsGeQlpD/view?usp=drive_link)
 
 [ ] - 07 - React Completo
 
@@ -101,4 +100,5 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 
 [ ] - 23 - JavaScript e jQuery
 
+<br>
 Origamid © Todos os direitos reservados.
