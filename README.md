@@ -28,27 +28,38 @@ Repositório com arquivos criados durante as aulas, apenas para reforço do conh
 
 📌 Html e Css: [Portifólio](https://imgur.com/vBmNsUw)
 
-<!--![Portifolio_Figma](https://i.imgur.com/vBmNsUw.png)-->
+<p float="left">
+ <img src="https://i.imgur.com/OXRyQPV.png" width="300" />
+</p>
 
 📌 FlexBox: [Bikcraft](https://imgur.com/2ezUqtv)
 
-<!--![Bikcraft_FlexBox_Figma](https://i.imgur.com/2ezUqtv.png)-->
+<p float="left">
+ <img src="https://i.imgur.com/xXzIo1h.png" width="300" />
+</p>
 
 📌 Html, Css e JavaScript: [Bikcraft](https://imgur.com/oFDF9r2) 
 
-<!--![Bikcraft_Figma](https://i.imgur.com/oFDF9r2.jpg)-->
+<p float="left">
+ <img src="https://i.imgur.com/MCUmkFA.png" width="300" />
+</p>
 
 📌 Css Flexbox: [FlexBlog](https://imgur.com/T7hJyrp) 
-
-<!--![FlexBlog_Figma](https://i.imgur.com/T7hJyrp.png)-->
+<p float="left">
+ <img src="https://i.imgur.com/OaBlbf6.png" width="300" />
+</p>
 
 📌 Css Grid Layout: [WildBeast](https://imgur.com/n8NVvnN) 
 
-<!--![WildBeast_Figma](https://i.imgur.com/n8NVvnN.png)-->
+<p float="left">
+ <img src="https://i.imgur.com/n8NVvnN.png" width="300" />
+</p>
 
 📌 Html e Css: [Surfbot](https://imgur.com/fXUKJOA) 
 
-<!--![SufBot_Figma](https://i.imgur.com/fXUKJOA.png)-->
+<p float="left">
+ <img src="https://i.imgur.com/94MWV0P.png" width="300" />
+</p>
 
 <br>
 
