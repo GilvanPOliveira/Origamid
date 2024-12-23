@@ -1,0 +1,36 @@
+
+/*
+amarelo1 = #febe01
+amarelo2 = #332200
+preto = #111
+cinza = #b2b2b2
+font = arial
+*/
+
+body {
+  font-family: Arial;
+}
+h1 {
+  text-align: center;
+}
+.item {
+  background: #111;
+  color: #fff;
+  padding: 30px;
+  margin: 40px;
+  border-radius: 4px;
+}
+span {
+  color: #febe01;
+}
+p {
+  color: #b2b2b2;
+}
+a {
+  background: #febe01;
+  color: #332200;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+

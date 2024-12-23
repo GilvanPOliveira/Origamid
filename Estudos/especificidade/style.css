@@ -1,0 +1,40 @@
+body {
+  font-size: 2rem;
+}
+
+h2 {
+  color: black !important; /* fica acima de qualquer outro seletor */
+}
+
+#produtos { /* 1,0,0 - significa que sempre será o primeiro */
+  color: lightgreen;
+}
+
+#serviços {
+  color: red;
+}
+
+.titulo .teste {
+  color: blue;
+}
+
+.titulo {
+  color: tomato;
+  padding: 10px;
+}
+
+#intro #servicos { /* seletor com importancia maior (2 id) */
+  color: aqua;
+}
+
+html body section h2 { /* 0,0,4 */
+  border-left: 8px solid lightgreen;
+}
+
+html body section #intro h2 { /* 1,0,4 - tornando-se importante por possuir um id*/
+  border-left: 8px solid lightgreen;
+}
+body section h2 { /* 0,0,3 */
+  border-left: 8px solid lightsalmon;
+}
+
