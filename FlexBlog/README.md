@@ -3,10 +3,10 @@
 Projeto feito apenas com Html e Css, para treinamento e aprendizado de todo conteúdo do CSS Flexbox
 
 <p float="left">
- <img src="https://i.imgur.com/xXzIo1h.png" width="300" />
+ <img src="https://i.imgur.com/OaBlbf6.png" width="300" />
 </p>
 
-📌 Projeto idealizado no Figma: [Bikcraft Flexbox](https://imgur.com/2ezUqtv)
+📌 Projeto idealizado no Figma: [FlexBlog](https://imgur.com/T7hJyrp) 
 
 ## Imagens do App em execução:
 
@@ -15,6 +15,3 @@ Projeto feito apenas com Html e Css, para treinamento e aprendizado de todo cont
  <br>
  
 [<- Retornar ao Origamid](https://github.com/GilvanPOliveira/Origamid)
-
-
-
