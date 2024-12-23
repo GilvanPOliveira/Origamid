@@ -1,7 +1,4 @@
-## 🐺 [Origamid](https://www.origamid.com/)
 <div align="left"><img src="https://i.imgur.com/ogV8LZc.png" width="75%" /></div>
-
-Aprenda do zero Web Design e comece a sua carreira de UX / UI Designer e Desenvolvedor(a) Front End. Mais de 1460 aulas divididas em 23 cursos. Os cursos da Origamid são voltados para o desenvolvimento web e divididos em duas categorias: Front End e UX/UI Design.
 
 ## 📚 Sobre o Repositório
 
@@ -26,43 +23,6 @@ Há também um repositório com arquivos criados durante as aulas, apenas para r
 📌 Css Grid Layout: [WildBeast]()
 
 📌 Html e Css: [Surfbot]()
-
-### Projetos idealizados no Figma:
-
-📌 Html e Css: [Portifólio](https://www.figma.com/design/38Qcaa2enXmEjwEm9rg7Hb/Portif%C3%B3lio?node-id=10-0&t=VFwvKxYEpCC0mwhe-1)
-
-<p float="left">
- <img src="https://i.imgur.com/OXRyQPV.png" width="300" />
-</p>
-
-📌 FlexBox: [Bikcraft](https://imgur.com/2ezUqtv)
-
-<p float="left">
- <img src="https://i.imgur.com/xXzIo1h.png" width="300" />
-</p>
-
-📌 Html, Css e JavaScript: [Bikcraft](https://www.figma.com/design/T0mHgYvnD5AWFa64LDZx0E/Origamid?node-id=0-1&t=uTo2or0gJuxhnbI2-1) 
-
-<p float="left">
- <img src="https://i.imgur.com/MCUmkFA.png" width="300" />
-</p>
-
-📌 Css Flexbox: [FlexBlog](https://imgur.com/T7hJyrp) 
-<p float="left">
- <img src="https://i.imgur.com/OaBlbf6.png" width="300" />
-</p>
-
-📌 Css Grid Layout: [WildBeast](https://imgur.com/n8NVvnN) 
-
-<p float="left">
- <img src="https://i.imgur.com/n8NVvnN.png" width="300" />
-</p>
-
-📌 Html e Css: [Surfbot](https://www.figma.com/design/xitTj9hAYpDtYRQdgW8DMy/surfbot?node-id=0-1&t=xnvNkMCdYu9gVErU-1) 
-
-<p float="left">
- <img src="https://i.imgur.com/94MWV0P.png" width="300" />
-</p>
 
 ## Grade do Curso:
 
@@ -112,8 +72,7 @@ Há também um repositório com arquivos criados durante as aulas, apenas para r
 
 [ ] - 23 - JavaScript e jQuery
 
-
-### 🐺 Origamid © Todos os direitos reservados.
+### 🐺 [Origamid](https://www.origamid.com/)
 
 ## 🛠 Tecnologias Utilizadas
 
