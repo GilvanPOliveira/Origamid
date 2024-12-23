@@ -1,13 +1,17 @@
-## 🐺 Origamid
-<div align="left"><img src="https://i.imgur.com/bSwirdO.png" width="75%" /></div>
+## 🐺 [Origamid](https://www.origamid.com/)
+<div align="left"><img src="https://i.imgur.com/ogV8LZc.png" width="75%" /></div>
 
-<br>
+Aprenda do zero Web Design e comece a sua carreira de UX / UI Designer e Desenvolvedor(a) Front End. Mais de 1460 aulas divididas em 23 cursos. Os cursos da Origamid são voltados para o desenvolvimento web e divididos em duas categorias: Front End e UX/UI Design.
 
-## Repositório com arquivos criados durante as aulas, apenas para reforço do conhecimento adquirido e projetos desenvolvidos em execução.
+## 📚 Sobre o Repositório
 
-<br>
+Este repositório concentra todo o conteúdo estudado no curso da plataforma Origamid, reunindo todos os projetos desenvolvidos ao longo do programa. A organização é feita por módulos dos projetos elaborados, o README principal de cada projeto inclui também o link para o deploy, permitindo a interação direta com a aplicação em produção. Essa estrutura tem como objetivo facilitar a localização e avaliação dos projetos, além de servir como referência para estudantes e desenvolvedores interessados em aprender as linguagens e tecnologias empregadas.
 
-## Projetos em execução:
+Há também um repositório com arquivos criados durante as aulas, apenas para reforço do conhecimento adquirido e projetos desenvolvidos em execução.
+
+## 🚀 Estrutura do Repositório
+
+### Projetos em execução:
 
 📌 React e JavaScript: [Animais Fantásticos]() 
 
@@ -23,9 +27,7 @@
 
 📌 Html e Css: [Surfbot]()
 
-<br>
-
-## Projetos idealizados no Figma:
+### Projetos idealizados no Figma:
 
 📌 Html e Css: [Portifólio](https://www.figma.com/design/38Qcaa2enXmEjwEm9rg7Hb/Portif%C3%B3lio?node-id=10-0&t=VFwvKxYEpCC0mwhe-1)
 
@@ -61,8 +63,6 @@
 <p float="left">
  <img src="https://i.imgur.com/94MWV0P.png" width="300" />
 </p>
-
-<br>
 
 ## Grade do Curso:
 
@@ -112,6 +112,15 @@
 
 [ ] - 23 - JavaScript e jQuery
 
-<br>
 
-🐺 Origamid © Todos os direitos reservados.
+### 🐺 Origamid © Todos os direitos reservados.
+
+## 🛠 Tecnologias Utilizadas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react&perline=10)](https://github.com/GilvanPOliveira)
+
+## 📬 Contato
+
+Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
+- E-mail: gilvanoliveira06@gmail.com
+- Portifólio: [Gilvan Oliveira](https://gilvanpoliveira.github.io/)
