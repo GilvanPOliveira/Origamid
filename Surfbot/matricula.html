@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Alice&family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+
+  <link rel="icon" href="./surfbot-assets/surfbot-icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css">
+  <meta name="description" content="Escola de Surf">
+  <title>SurfBot</title>
+
+</head>
+
+<body>
+  <header>
+    <nav class="menu-bg">
+      <img src="./surfbot-assets/surfbot-logo.svg" width="152" height="38" alt="Logo">
+      <ul class="menu">
+        <li><a href="./">Praia</a></li>
+        <li><a href="./">Aulas</a></li>
+        <li><a href="./">Contato</a></li>
+        <li><a href="./">Matricule-se</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="matricula-bg" aria-label="Matricule-se">
+    <h1 class="matricula-titulo">Matricule-se</h1>
+  </section>
+
+  <article class="realizar-matricula">
+    <div class="formulario-matricula">
+      <form class="dados-matricula" action="./matricula.html">
+        <div class="col-1">
+          <label for="nome">Nome</label>
+          <input type="text" name="nome" id="nome">
+        </div>
+        <div class="col-1">
+          <label for="email">Email</label>
+          <input type="email" name="email" id="email">
+        </div>
+        <div class="col-1">
+          <label for="cpf">CPF</label>
+          <input type="number" name="cpf" id="cpf" placeholder="111.111.111-01">
+        </div>
+        <div  class="col-0">
+          <label for="endereco">Endereço</label>
+          <input type="text" name="endereco" id="endereco" placeholder="Rua, Número e Bairro">
+        </div>
+        <div class="col-2">
+          <label for="estado">Estado</label>
+          <select name="estado" id="estado">
+            <option value="selecione" selected hidden>Selecione o Estado</option>
+            <option value="RJ">RJ</option>
+            <option value="SP">SP</option>
+            <option value="PE">PE</option>
+          </select>
+        </div>
+        <div  class="col-0">
+          <label for="cep">CEP</label>
+          <input type="text" name="cep" id="cep" placeholder="22.222-000">
+        </div>
+        <div class="col-2">
+          <label for="cidade">Cidade</label>
+          <select name="cidade" id="cidade">
+            <option value="selecione" selected hidden>Selecione a Cidade</option>
+            <option value="logo-ali">Logo Ali</option>
+            <option value="por-ai">Por ai</option>
+            <option value="aqui">Aqui</option>
+          </select>
+        </div>
+        <span>Forma de Pagamento</span>
+      </form>
+
+      <div class="pagamento">
+        <div class="pagamento-matricula">
+
+          <input type="radio" name="tipo" value="cartao-credito" id="cartao-credito">
+          <label for="cartao-credito">Cartão de Crédito</label>
+
+          <input type="radio" name="tipo" value="boleto" id="boleto">
+          <label for="boleto">Boleto Bancário</label>
+
+          <div class="formulario-pagamento" id="radio-cartao-credito">
+            <div class="nome-col-1">
+              <label for="nome-cartao">Nome do Cartão</label>
+            </div>
+            <div class="nome-input-row-2">
+              <input type="text" name="nome-cartao" id="nome-cartao" placeholder="Nome impresso no cartão">
+            </div>
+            <div class="data-col-2">
+              <label for="data">Data de Expiração</label>
+            </div>
+            <div class="mes-col-2">
+              <select name="mes" id="mes">
+                <option value="selecione" selected hidden>Mês</option>
+                <option value="01">01</option>
+                <option value="02">02</option>
+                <option value="03">03</option>
+              </select>
+            </div>
+            <div class="ano-col-3">
+              <select name="ano" id="ano">
+                <option value="selecione" selected hidden>Ano</option>
+                <option value="2023">2023</option>
+                <option value="2022">2022</option>
+                <option value="2021">2021</option>
+              </select>
+            </div>
+            <div class="numero-col-1">
+              <label for="numero-cartao">Número do Cartão</label>
+              <input type="number" name="numero-cartao" id="numero-cartao" placeholder="5555 5555 5555 5555">
+            </div>
+            <div class="codigo-col-2">
+              <label for="codigo">Código de Segurança</label>
+              <input type="number" name="codigo" id="codigo" placeholder="XXX">
+            </div>
+          </div>
+
+          <div class="formulario-pagamento" id="radio-boleto">
+            <input type="radio" name="boleto-span" value="boleto-span" id="boleto-span">
+            <label for="boleto-span">Boleto<span>R$ 0,00</span></label>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="confirmacao">
+        <p>Seu cartão será debitado em R$ 49,00</p>
+        <a class="botao" href="./matricula.html">Realizar Matrícula</a>
+        <div class="seguranca">
+          <img src="./surfbot-assets/cadeado.svg" alt="cadeado">
+          <p>Informações seguras e criptografadas</p>
+        </div>
+      </div>
+    </div>
+ 
+    <div class="plano">
+      <div class="plano-matricula">
+        <h2>Escolha seu plano:</h2>
+        <input type="radio" name="tipo" value="infantil" id="infantil">
+        <label for="infantil">Infantil</label>
+
+        <input type="radio" name="tipo" value="adulto" id="adulto">
+        <label for="adulto">Adulto</label>
+
+        <input type="radio" name="tipo" value="profissional" id="profissional">
+        <label for="profissional">Profissional</label>
+
+        <div class="plano-escolhido" id="radio-infantil">
+          <div class="modalidade infantil">
+            <div class="box">
+              <h2>Infantil</h2>
+              <ul>
+                <li>Público entre 5 e 15 anos</li>
+                <li>Equipamentos fornecidos</li>
+                <li>Horários de Sex. à Sab.</li>
+                <li>2 horas seguidas de aula</li>
+              </ul>
+              <ol>
+                <span>R$ 49,00 / Aula</span>
+              </ol>
+              <div>
+                <a class="botao" href="./matricula.html">Matricule-se <img src="./surfbot-assets/seta.svg" alt="Seta Branca"></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="plano-escolhido" id="radio-adulto">
+          <div class="modalidade adulto">
+            <div class="box">
+              <h2>Adulto</h2>
+              <ul>
+                <li>Público entre 15 e 80 anos</li>
+                <li>Equipamentos fornecidos</li>
+                <li>Horários de Sex. à Sab.</li>
+                <li>3 horas seguidas de aula</li>
+              </ul>
+              <ol>
+                <span>R$ 69,00 / Aula</span>
+              </ol>
+              <div>
+                <a class="botao" href="./matricula.html">Matricule-se <img src="./surfbot-assets/seta.svg" alt="Seta Branca"></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="plano-escolhido" id="radio-profissional">
+          <div class="modalidade profissional">
+            <div class="box">
+              <h2>Profissional</h2>
+              <ul>
+                <li>Experiência de 3 anos no surf</li>
+                <li>Você deve trazer o equipamento</li>
+                <li>Horários de Sex. à Sab.</li>
+                <li>4 horas seguidas de aula</li>
+              </ul>
+              <ol>
+                <span>R$ 99,00 / Aula</span>
+              </ol>
+              <div>
+                <a class="botao" href="./matricula.html">Matricule-se <img src="./surfbot-assets/seta.svg" alt="Seta Branca"></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </article>
+
+  <footer>
+    <p>Surfnet 2017 - © Alguns direitos reseervados..</p>
+    <img src="./surfbot-assets/surfbot-icon.svg" alt="Ícone SurfBot">
+    <p> Desenvolvido por <a href="https://gilvanpoliveira.github.io/" target="_blank"> Gilvan Oliveira </a></p>
+  </footer>
+
+</body>
+
+</html>

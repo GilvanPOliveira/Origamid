@@ -1,0 +1,1390 @@
+/* Padrão */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-family: "Nunito", sans-serif;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+li {
+  list-style: none;
+}
+
+/* Header */
+.titulo {
+  background: #18e;
+  color: white;
+  padding: 12px 48px;
+  font-weight: 700;
+}
+.menu-bg {
+  background: #17222d;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 48px;
+  color: white;
+}
+.menu {
+  display: flex;
+  gap: 60px;
+  font-weight: 700;
+}
+.menu a {
+  display: inline-block;
+  position: relative;
+}
+.menu a:hover::after {
+  content: "";
+  position: absolute;
+  background: #e21;
+  width: 100%;
+  height: 2px;
+  top: 20px;
+  left: 0;
+  transition: 0.3s;
+}
+.menu li + li ::before {
+  content: "";
+  display: block;
+  position: absolute;
+  border-radius: 50%;
+  border-color: white;
+  box-shadow: inset 0 0 0 2px white, inset 0 0 0 2px #17222d;
+  width: 8px;
+  height: 8px;
+  top: 6px;
+  left: -30px;
+}
+@media (max-width: 768px) {
+  .menu-bg {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+  .menu li + li ::before {
+    display: none;
+  }
+  .menu {
+    gap: 24px;
+    align-items: center;
+  }
+}
+@media (max-width: 568px) {
+  .menu {
+    flex-direction: column;
+    gap: 4px;
+  }
+  .titulo {
+    padding: 4px 12px;
+    text-align: center;
+  }
+  .menu-bg {
+    padding: 12px 12px;
+  }
+}
+
+/* Seção 01 - Banner */
+.banner-bg {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(5, minmax(80px, auto));
+  background: url("./surfbot-assets/bg-intro.jpg") repeat-x;
+}
+.banner {
+  grid-area: banner;
+  width: 100%;
+  height: auto;
+}
+.banner-bg h1 {
+  grid-column: 1;
+  grid-row: 4;
+  grid-template-columns: subgrid;
+  margin-left: 48px;
+  font-size: 4em;
+  font-family: "Alice", sans-serif;
+  color: white;
+  line-height: normal;
+  font-weight: 400;
+}
+.cadastro {
+  grid-column: 2;
+  grid-row: 4;
+  grid-template-columns: subgrid;
+  margin-right: 250px;
+  align-self: center;
+}
+.cadastro .form {
+  font: 700 1rem/1.5 "Nunito", sans-serif;
+  background: white;
+  border: 1px solid white;
+  padding: 7px 14px;
+  border-radius: 4px 0px 0px 4px;
+  box-shadow: 0 0 2px 0 white;
+  box-sizing: border-box;
+}
+.cadastro .form::placeholder {
+  opacity: 0.5;
+}
+.cadastro .botao {
+  padding: 9px 14px;
+  background: #e21;
+  border-radius: 0 4px 4px 0;
+  text-transform: uppercase;
+  color: white;
+  font: 700 1rem / 1.5 "Nunito", sans-serif;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  width: max-content;
+}
+.botao img {
+  margin-left: 32px;
+}
+@media (max-width: 968px) {
+  .banner-bg {
+    grid-template-columns: 1fr 1fr;
+  }
+  .banner-bg h1 {
+    grid-row: 3;
+  }
+  .cadastro {
+    grid-column: 1;
+    grid-row: 4;
+    margin-left: 48px;
+  }
+}
+@media (max-width: 918px) {
+  .banner-bg h1 {
+    grid-row: 2;
+  }
+  .cadastro {
+    grid-row: 3;
+  }
+  .cadastro .botao,
+  .cadastro .form {
+    border-radius: 4px;
+  }
+}
+@media (max-width: 908px) {
+  .cadastro .botao {
+    display: flex;
+  }
+  .cadastro .form {
+    width: 210px;
+    height: auto;
+  }
+  .cadastro .botao {
+    padding: 9px 25px;
+  }
+}
+@media (max-width: 568px) {
+  .banner-bg {
+    grid-template-columns: 1fr;
+  }
+  .banner-bg h1 {
+    grid-row: 1;
+    max-width: 6ch;
+    justify-self: center;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 50px;
+  }
+  .cadastro {
+    grid-template-columns: 1fr;
+    grid-row: 2;
+    margin: 0 auto;
+  }
+  .cadastro .botao {
+    padding: 14px 25px;
+  }
+  .banner-bg {
+    grid-template-rows: repeat(4, minmax(80px, auto));
+  }
+}
+@media (max-width: 368px) {
+  .banner-bg {
+    grid-template-columns: 190px;
+    grid-template-rows: repeat(3, minmax(50px, auto));
+    justify-content: center;
+  }
+  .banner-bg h1 {
+    font-size: 3em;
+    margin-top: 8px;
+  }
+  .cadastro .form {
+    width: 160px;
+    font-size: 0.9em;
+    height: auto;
+    border-radius: 4px;
+  }
+  .cadastro .botao {
+    width: 110px;
+    font-size: 1em;
+    border-radius: 4px;
+    padding: 8px 25px;
+    justify-content: center;
+  }
+  .cadastro .botao::after {
+    display: none;
+  }
+  .cadastro {
+    margin-left: 20px;
+  }
+  .cadastro {
+    margin: 0 auto;
+    font-size: 0.75em;
+  }
+  .cadastro .botao img {
+    display: none;
+  }
+}
+
+/* Escopo do site - Localização */
+.escopo {
+  display: grid;
+  padding: 4px 12px;
+  gap: 48px;
+  margin-bottom: 48px;
+  grid-template-columns: 1fr 1fr;
+}
+.localizacao {
+  position: relative;
+  margin-bottom: 130px;
+}
+.pranchas {
+  grid-column: 1;
+  margin-bottom: 150px;
+}
+.mapa {
+  grid-template-columns: subgrid;
+  grid-column: 1;
+  top: 570px;
+  left: 24px;
+  position: absolute;
+}
+.local {
+  font-weight: 700;
+}
+.local span {
+  text-transform: uppercase;
+  color: #17222d;
+  position: relative;
+  margin-left: 40px;
+}
+.local span::after {
+  content: "";
+  display: block;
+  position: absolute;
+  border-radius: 50%;
+  border-color: #ff3726;
+  box-shadow: inset 0 0 0 2px #ff3726, inset 0 0 0 2px #17222d;
+  width: 8px;
+  height: 8px;
+  top: 7px;
+  left: -14px;
+}
+.local strong {
+  color: #17222d;
+  line-height: 2;
+}
+.local li {
+  color: #9ab;
+  position: relative;
+  margin-left: 40px;
+  line-height: 1.5;
+}
+.local li::after {
+  content: "";
+  position: absolute;
+  display: block;
+  background: #18e;
+  width: 10px;
+  height: 2px;
+  top: 15px;
+  left: -15px;
+}
+.info {
+  grid-column: 2;
+  justify-self: center;
+}
+.info h1 {
+  font-family: "Alice", sans-serif;
+  font-weight: 400;
+  font-size: 4.5em;
+  color: #17222d;
+  line-height: normal;
+  margin-bottom: 72px;
+}
+.info h1 span {
+  color: #18e;
+}
+/* Escopo do site - Informações */
+.caracteristicas li {
+  font-weight: 400;
+  line-height: normal;
+  font-size: 1.5em;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-bottom: 48px;
+  position: relative;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+.caracteristicas li::after {
+  content: "";
+  position: absolute;
+  top: -30px;
+  left: 0;
+  width: 470px;
+  height: 2px;
+  background: #eff4f9;
+}
+.caracteristicas li:nth-child(3)::before {
+  content: "";
+  position: absolute;
+  top: 110px;
+  left: 0;
+  width: 470px;
+  height: 2px;
+  background: #eff4f9;
+}
+.descricao {
+  color: #456;
+  font-size: 1.125em;
+  font-weight: 400;
+  line-height: 1.8em;
+  margin-bottom: 32px;
+  display: block;
+  width: 470px;
+}
+@media (max-width: 1168px) {
+  .escopo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .localizacao {
+    margin-bottom: 12px;
+  }
+}
+@media (max-width: 668px) {
+  .local {
+    font-size: 0.7em;
+  }
+  .local li::after {
+    top: 8px;
+  }
+  .local span::after {
+    top: 3px;
+  }
+  .pranchas {
+    width: 450px;
+    height: auto;
+  }
+  .mapa {
+    width: 420px;
+    height: auto;
+    left: 15px;
+    top: 450px;
+  }
+}
+@media (max-width: 468px) {
+  .pranchas {
+    width: 250px;
+    height: auto;
+    margin-bottom: 90px;
+  }
+  .mapa {
+    width: 230px;
+    height: auto;
+    left: 10px;
+    top: 250px;
+  }
+  .info h1 {
+    font-size: 3em;
+    text-align: center;
+  }
+  .caracteristicas li::after {
+    width: 300px;
+    left: 40px;
+  }
+  .caracteristicas li:nth-child(3)::before {
+    width: 300px;
+    left: 40px;
+  }
+  .caracteristicas li {
+    justify-content: center;
+    font-size: 1em;
+    margin-bottom: 72px;
+  }
+  .descricao {
+    font-size: 0.875em;
+    text-align: center;
+    margin-bottom: 48px;
+    width: auto;
+  }
+  .descricao br {
+    display: none;
+  }
+}
+@media (max-width: 368px) {
+  .escopo {
+    gap: 24px;
+  }
+  .info h1 {
+    font-size: 2em;
+    margin-bottom: 24px;
+  }
+  .caracteristicas li {
+    display: flex;
+    flex-direction: column;
+  }
+  .caracteristicas li::after {
+    width: 250px;
+    top: -10px;
+  }
+  .caracteristicas li:nth-child(3)::before {
+    width: 250px;
+    top: 135px;
+  }
+  .caracteristicas li {
+    font-size: 0.875em;
+    margin-bottom: 24px;
+  }
+  .descricao {
+    font-size: 0.7em;
+    padding: 24px;
+    margin-bottom: 32px;
+    width: auto;
+  }
+  .localizacao {
+    margin-bottom: 8px;
+  }
+  .pranchas {
+    width: 200px;
+    height: auto;
+    margin-top: 12px;
+    margin-bottom: 20px;
+  }
+  .mapa {
+    width: 180px;
+    height: auto;
+    left: 10px;
+    top: 180px;
+  }
+  .local {
+    font-size: 0.5em;
+  }
+  .local li::after {
+    top: 6px;
+  }
+  .local span::after {
+    top: 1px;
+  }
+  .info h1 br {
+    display: none;
+  }
+  .descricao {
+    margin-bottom: 0;
+  }
+  .caracteristicas li:nth-last-child(1) {
+    margin-bottom: 0;
+  }
+  .local {
+    width: 190px;
+  }
+}
+@media (max-width: 318px) {
+  .caracteristicas li::after {
+    width: 180px;
+    left: 55px;
+  }
+  .caracteristicas li:nth-child(3)::before {
+    width: 180px;
+    left: 55px;
+  }
+}
+@media (max-width: 268px) {
+  .caracteristicas li::after {
+    width: 150px;
+    left: 45px;
+  }
+  .caracteristicas li:nth-child(3)::before {
+    width: 150px;
+    left: 45px;
+  }
+}
+@media (max-width: 238px) {
+  .caracteristicas li::after {
+    left: 15px;
+  }
+  .caracteristicas li:nth-child(3)::before {
+    left: 15px;
+  }
+}
+
+/* Aulas */
+.aulas-bg h1 {
+  grid-area: aulas;
+  grid-column: 2;
+  text-align: center;
+  color: #456;
+  font-family: "Alice", sans-serif;
+  font-size: 4.5em;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 60px;
+  margin-bottom: 48px;
+  position: relative;
+}
+.aulas-bg h1::after {
+  content: "";
+  position: absolute;
+  top: -90px;
+  left: 115px;
+  width: 174px;
+  height: 68px;
+  background: url("./surfbot-assets/ondas.svg");
+}
+.modalidade {
+  color: #456;
+  font-family: "Nunito", sans-serif;
+  font-size: 0.875em;
+  font-weight: 400;
+  line-height: 2;
+}
+.modalidade span {
+  color: #18e;
+  font-family: "Nunito", sans-serif;
+  font-size: 0.875em;
+  font-weight: 700;
+  line-height: 2;
+}
+.modalidade h2 {
+  color: #456;
+  text-align: center;
+  font-family: "Nunito", sans-serif;
+  font-size: 1.75em;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 32px;
+  text-transform: uppercase;
+  position: relative;
+}
+.modalidade ul {
+  margin-bottom: 42px;
+  position: relative;
+}
+.box {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex-shrink: 0;
+  width: 300px;
+  height: 400px;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+  border-radius: 4px;
+  box-shadow: 0px 10px 10px 0px rgba(187, 204, 221, 0.4),
+    0px 5px 5px 0px rgba(187, 204, 221, 0.4);
+}
+.infantil h2::after {
+  content: "";
+  position: absolute;
+  top: -60px;
+  left: 40px;
+  width: 174px;
+  height: 68px;
+  background: url("./surfbot-assets/surfbot-icon\ -\ azul.svg") no-repeat;
+}
+.adulto h2::after {
+  content: "";
+  position: absolute;
+  top: -60px;
+  left: 20px;
+  width: 60px;
+  height: 39px;
+  background: url("./surfbot-assets/surfbot-icon\ -\ azul.svg") repeat;
+  background-position: 0 0;
+}
+.profissional h2::after {
+  content: "";
+  position: absolute;
+  top: -60px;
+  left: 40px;
+  width: 90px;
+  height: 39px;
+  background: url("./surfbot-assets/surfbot-icon\ -\ azul.svg") repeat;
+  background-position: 0 0;
+}
+.modalidade ul::after {
+  content: "";
+  position: absolute;
+  top: -30px;
+  left: -15px;
+  width: 230px;
+  height: 2px;
+  background: #eff4f9;
+  margin-top: 12px;
+}
+.modalidade ol {
+  width: 200px;
+  margin-bottom: 24px;
+  position: relative;
+}
+.modalidade ol::after {
+  content: "";
+  position: absolute;
+  top: -30px;
+  left: -15px;
+  width: 230px;
+  height: 2px;
+  background: #eff4f9;
+  margin-top: 12px;
+}
+.modalidade li {
+  position: relative;
+}
+.modalidade li::after {
+  content: "";
+  display: block;
+  position: absolute;
+  border-radius: 50%;
+  border-color: #ff3726;
+  box-shadow: inset 0 0 0 2px #ff3726, inset 0 0 0 2px #ff3726;
+  width: 8px;
+  height: 8px;
+  top: 9px;
+  left: -15px;
+}
+.modalidade .botao {
+  padding: 12px 12px;
+  background: #456;
+  border-radius: 4px;
+  text-transform: uppercase;
+  color: white;
+  font: 700 1.125rem / normal "Nunito", sans-serif;
+  border: none;
+  cursor: pointer;
+  width: max-content;
+  display: flex;
+}
+.modalidade .botao img {
+  margin-left: 30px;
+}
+.aulas-bg {
+  background: #eff4f9;
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  grid-template-rows: repeat(3, auto);
+  grid-template-areas:
+    "aulas aulas aulas"
+    "infantil adulto profissional"
+    "desconto desconto desconto";
+}
+.infantil,
+.adulto,
+.profissional {
+  display: flex;
+  align-items: center;
+}
+.infantil {
+  grid-area: infantil;
+  grid-column: 1;
+  justify-self: end;
+}
+.adulto {
+  grid-area: adulto;
+  grid-column: 2;
+  justify-self: center;
+}
+.profissional {
+  grid-area: profissional;
+  grid-column: 3;
+  justify-self: start;
+}
+.desconto {
+  grid-area: desconto;
+  margin-top: 32px;
+  margin-bottom: 60px;
+  color: #456;
+  text-align: center;
+  font-family: "Nunito", sans-serif;
+  font-size: 1.125em;
+  font-weight: 400;
+  line-height: 1.5em;
+}
+.desconto .red {
+  color: #ff3726;
+  font-size: 1.125em;
+  font-weight: 700;
+}
+.underline {
+  position: relative;
+}
+.underline::after {
+  content: "";
+  position: absolute;
+  top: 25px;
+  left: 0;
+  width: 88px;
+  height: 2px;
+  background: #ff3726;
+}
+@media (max-width: 1168px) {
+  .aulas-bg {
+    display: flex;
+    flex-direction: column;
+    margin-top: 32px;
+  }
+  .infantil,
+  .adulto,
+  .profissional {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .infantil,
+  .adulto, .profissional {
+    margin-bottom: 48px;
+  }
+  .aulas-bg h1::after {
+    display: none;
+  }
+  .infantil span::after {
+    content: "";
+    position: absolute;
+    top: -480px;
+    left: 30px;
+    width: 174px;
+    height: 68px;
+    background: url("./surfbot-assets/ondas.svg") no-repeat;
+    background-size: cover;
+  }
+}
+@media (max-width: 468px) {
+  .aulas-bg h1 {
+    font-size: 3em;
+    margin-bottom: 48px;
+    margin-top: 48px;
+  }
+  .infantil span::after {
+    top: -450px;
+    width: 174px;
+  }
+}
+@media (max-width: 368px) {
+  .modalidade ul::after {
+    width: 140px;
+    top: -20px;
+  }
+  .modalidade ol::after {
+    width: 140px;
+  }
+  .modalidade ol {
+    margin-bottom: 24px;
+    width: 120px;
+  }
+  .desconto {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    padding: 8px;
+    font-size: 0.875em;
+  }
+  .desconto br {
+    display: none;
+  }
+  .modalidade li::after {
+    top: 8px;
+  }
+  .infantil span::after {
+    top: -460px;
+    left: -5px;
+  }
+  .infantil h2::after {
+    width: 30px;
+    top: -120px;
+    left: 30px;
+  }
+  .infantil ul::after,
+  .adulto ul::after,
+  .profissional ul::after {
+    left: 10px;
+  }
+  .modalidade li {
+    margin-left: 8px;
+  }
+  .modalidade ul {
+    margin-bottom: 12px;
+  }
+  .infantil ol::after,
+  .adulto ol::after,
+  .profissional ol::after {
+    top: -20px;
+    left: 10px;
+  }
+  .modalidade ol {
+    width: 160px;
+    margin-bottom: 8px;
+  }
+  .modalidade .botao {
+    font-size: 0.875em;
+  }
+  .profissional h2::after {
+    top: -92px;
+    left: 30px;
+  }
+  .adulto h2::after {
+    top: -105px;
+    left: 10px;
+  }
+  .underline::after {
+    top: 20px;
+    left: 0;
+    width: 70px;
+    height: 2px;
+  }
+  .modalidade ol {
+    margin-left: 0px;
+  }
+  .modalidade ul {
+    width: 168px;
+  }
+  .box {
+    width: 200px;
+    display: flex;
+    align-content: space-around;
+    padding: 12px;
+  }
+  .modalidade h2 {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 1.5em;
+  }
+}
+@media (max-width: 268px) {
+  .modalidade .botao img {
+    display: none;
+  }
+  .modalidade .botao {
+    padding: 4px 12px;
+  }
+  .infantil span::after {
+    top: -395px;
+    left: -30px;
+  }
+  .box {
+    width: 150px;
+    height: 350px;
+    padding: 4px;
+  }
+  .modalidade h2 {
+    font-size: 1em;
+  }
+  .modalidade li {
+    font-size: 0.75em;
+  }
+  .modalidade ul {
+    width: 130px;
+  }
+  .modalidade ol {
+    width: 120px;
+  }
+  .aulas-bg h1 {
+    font-size: 2em;
+  }
+  .infantil h2::after {
+    left: 15px;
+  }
+  .adulto h2::after {
+    left: -2px;
+  }
+  .profissional h2::after {
+    left: 8px;
+  }
+  .infantil ul::after,
+  .adulto ul::after,
+  .profissional ul::after {
+    left: 5px;
+    width: 120px;
+  }
+  .infantil ol::after,
+  .adulto ol::after,
+  .profissional ol::after {
+    left: 5px;
+    width: 120px;
+  }
+}
+
+/* Lema */
+.lema {
+  background: url("./surfbot-assets/foto-quote.jpg") no-repeat;
+  width: 100%;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.lema blockquote {
+  color: #fff;
+  text-align: center;
+  font-family: "Alice", sans-serif;
+  font-size: 4.5em;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.125em;
+  margin-bottom: 32px;
+}
+.lema p {
+  color: #fff;
+  font-family: "Nunito", sans-serif;
+  font-size: 1.125em;
+  font-weight: 400;
+  line-height: normal;
+  text-align: center;
+}
+@media (max-width: 668px) {
+  .lema blockquote {
+    font-size: 3.5em;
+  }
+}
+@media (max-width: 468px) {
+  .lema blockquote {
+    font-size: 2.5em;
+  }
+  .lema {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+}
+@media (max-width: 368px) {
+  .lema blockquote {
+    font-size: 1.5em;
+  }
+}
+
+/* Contato */
+.contato {
+  display: grid;
+  grid-template-areas:
+    "header header"
+    "form endereco"
+    "form email"
+    "form horario";
+  gap: 24px 220px;
+  padding: 48px 1px 1px 1px;
+  grid-template-columns: 450px 1fr;
+  margin-bottom: 48px;
+}
+.contato h1 {
+  grid-area: header;
+  color: #456;
+  font-family: "Alice", sans-serif;
+  font-size: 4.5em;
+  font-weight: 400;
+  line-height: normal;
+  text-align: center;
+  margin-top: 48px;
+  margin-bottom: 12px;
+}
+.contato .form {
+  grid-area: form;
+  margin-left: 48px;
+}
+.endereco {
+  grid-area: endereco;
+  position: relative;
+  margin-bottom: 60px;
+}
+.endereco ::before {
+  content: "";
+  position: absolute;
+  top: -20px;
+  left: -110px;
+  width: 2px;
+  height: 477px;
+  background: #eff4f9;
+}
+.endereco h2 {
+  color: #456;
+  font-family: "Nunito", sans-serif;
+  font-size: 1.125em;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 12px;
+}
+.endereco p {
+  color: #456;
+  font-family: "Nunito", sans-serif;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.endereco a {
+  margin-top: 12px;
+  display: flex;
+  gap: 8px;
+}
+.endereco h3 {
+  color: #456;
+  font-family: "Nunito", sans-serif;
+  font-size: 1.125em;
+  font-weight: 700;
+  line-height: normal;
+  align-items: center;
+}
+.email {
+  grid-area: email;
+  position: relative;
+  margin-bottom: 60px;
+}
+.email ::before {
+  content: "";
+  position: absolute;
+  top: -190px;
+  left: 230px;
+  width: 221px;
+  height: 338px;
+  background: url("./surfbot-assets/bg-icones.svg") no-repeat;
+}
+.email h2 {
+  color: #456;
+  font-family: "Nunito", sans-serif;
+  font-size: 1.125em;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 12px;
+}
+.email p {
+  color: #456;
+  font-family: "Nunito", sans-serif;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.email ::after {
+  content: "";
+  position: absolute;
+  top: -30px;
+  left: 0px;
+  width: 270px;
+  height: 2px;
+  background: #eff4f9;
+}
+.horario {
+  grid-area: horario;
+  position: relative;
+}
+.horario h2 {
+  color: #456;
+  font-family: "Nunito", sans-serif;
+  font-size: 1.125em;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 12px;
+}
+.horario p {
+  color: #456;
+  font-family: "Nunito", sans-serif;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.horario ::after {
+  content: "";
+  position: absolute;
+  top: -30px;
+  left: 0px;
+  width: 270px;
+  height: 2px;
+  background: #eff4f9;
+}
+.horario ::before {
+  content: "";
+  display: block;
+  position: absolute;
+  border-radius: 50%;
+  border-color: #16c70b;
+  box-shadow: inset 0 0 0 2px #16c70b, inset 0 0 0 2px #16c70b;
+  width: 8px;
+  height: 8px;
+  top: 7px;
+  left: -15px;
+}
+.formulario {
+  display: flex;
+  flex-direction: column;
+}
+.formulario label {
+  color: #456;
+  font-size: 1.125em;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 12px;
+}
+.formulario input {
+  border-radius: 4px;
+  background: #eff4f9;
+  border: 1px solid #eff4f9;
+  color: #456;
+  font-size: 1.125em;
+  font-weight: 700;
+  line-height: normal;
+  padding: 12px;
+  border-radius: 4px;
+  box-shadow: 0 0 2px 0 white;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}
+.formulario textarea {
+  border-radius: 4px;
+  background: #eff4f9;
+  border: 1px solid #eff4f9;
+  color: #456;
+  font-size: 1.125em;
+  font-weight: 700;
+  line-height: normal;
+  padding: 12px;
+  border-radius: 4px;
+  box-shadow: 0 0 2px 0 white;
+  box-sizing: border-box;
+  resize: none;
+  margin-bottom: 32px;
+}
+.contato-btn {
+  padding: 12px 12px;
+  background: #456;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  width: max-content;
+  display: block;
+}
+.contato-btn a {
+  display: flex;
+  align-items: center;
+}
+.contato-btn img {
+  margin-left: 24px;
+}
+.contato-btn p {
+  text-transform: uppercase;
+  color: white;
+  font: 700 1.125rem / normal "Nunito", sans-serif;
+}
+.contato-dados {
+  margin-left: 48px;
+}
+@media (max-width: 1168px) {
+  .endereco ::before {
+    display: none;
+  }
+  .contato {
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+  }
+}
+@media (max-width: 1028px) {
+  .email ::before {
+    left: 190px;
+  }
+}
+@media (max-width: 948px) {
+  .email ::before {
+    display: none;
+  }
+}
+@media (max-width: 868px) {
+  .contato h1 {
+    margin-top: 12px;
+  }
+  .contato {
+    display: grid;
+    gap: 12px;
+    grid-template-areas:
+      "header"
+      "form"
+      "endereco"
+      "email"
+      "horario";
+    margin-bottom: 24px;
+  }
+  .endereco {
+    margin-bottom: 0px;
+  }
+  .endereco {
+    margin-bottom: 60px;
+  }
+  .contato {
+    grid-template-columns: 1fr;
+    padding: 48px;
+  }
+  .email,
+  .horario {
+    width: 197px;
+  }
+  .contato-dados {
+    display: flex;
+    flex-direction: column;
+    margin-top: 48px;
+  }
+  .contato .form,
+  .contato-dados {
+    margin-left: 0px;
+  }
+  .email ::before {
+    display: block;
+    left: 250px;
+  }
+}
+@media (max-width: 568px) {
+  .contato {
+    padding: 12px;
+  }
+  .contato-dados {
+    margin-top: 24px;
+    padding: 24px;
+  }
+  .email {
+    margin-left: 0;
+  }
+  .contato .form {
+    padding: 24px;
+  }
+  .contato-btn {
+    padding: 8px 12px;
+  }
+  .contato h1 {
+    font-size: 3em;
+  }
+  .email ::after,
+  .endereco ::after,
+  .horario ::after {
+    display: flex;
+    width: 200px;
+  }
+}
+@media (max-width: 508px) {
+  .email ::before {
+    left: 200px;
+  }
+}
+@media (max-width: 468px) {
+  .email ::before {
+   display: none;
+  }
+  .contato-dados {
+    margin-top: 12px;
+    align-items: center;
+  }
+}
+@media (max-width: 328px) {
+  .contato h1 {
+    font-size: 2.5em;
+  }
+  .contato .form {
+    padding: 8px;
+    font-size: 0.875em;
+  }
+  .contato-dados {
+    margin-top: 8px;
+    margin-bottom: 12px;
+  }
+  .contato {
+    margin-bottom: 0;
+  }
+}
+@media (max-width: 268px) {
+  .contato {
+    padding: 0px;
+  }
+  .contato-btn .botao img {
+    display: none;
+  }
+  .formulario input,
+  .formulario textarea {
+    font-size: 0.5em;
+  }
+  .contato h1 {
+    font-size: 2em;
+  }
+  .formulario label {
+    font-size: 1em;
+  }
+  .formulario input {
+    padding: 12px 8px;
+  }
+
+  .contato-btn p {
+    font-size: 0.875em;
+  }
+  .contato-dados {
+    margin-top: 8px;
+  }
+  .contato-dados h2,
+  .contato-dados h3 {
+    font-size: 0.875em;
+  }
+  .contato-dados p {
+    font-size: 0.75em;
+  }
+  .email,
+  .horario,
+  .endereco {
+    width: 150px;
+  }
+  .email ::after,
+  .endereco ::after,
+  .horario ::after {
+    width: 150px;
+  }
+  .horario ::before {
+    top: 5px;
+  }
+  .contato .form {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+/* Footer */
+footer {
+  background: #18e;
+  width: auto;
+  color: #fff;
+  font-family: "Nunito", sans-serif;
+  font-size: 1.125em;
+  font-weight: 700;
+  line-height: normal;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 48px;
+}
+@media (max-width: 568px) {
+  footer {
+    flex-direction: column;
+    gap: 12px;
+    text-align: center;
+    padding: 8px;
+    font-size: 0.875em;
+  }
+  footer img {
+    align-self: center;
+    justify-self: center;
+    order: -1;
+  }
+}
+
