@@ -2,11 +2,15 @@
 
 Projeto feito apenas com Html e Css, para treinamento e aprendizado de todo conteúdo do CSS Flexbox
 
+<p float="left">
+ <img src="https://i.imgur.com/xXzIo1h.png" width="300" />
+</p>
+
+📌 Projeto idealizado no Figma: [Bikcraft Flexbox](https://imgur.com/2ezUqtv)
+
 ## Imagens do App em execução:
 
-  <br>
-
-- [Acessar Deploy]()
+📌 [Acessar Deploy]()
 
  <br>
  
