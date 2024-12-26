@@ -2,15 +2,16 @@
 
 Projeto idealizado para estudos de HTML e CSS
 
-<p float="left">
- <img src="https://i.imgur.com/OXRyQPV.png" width="300" />
-</p>
+## Imagens da aplicação:
+<div align="left">
+ <img src="https://i.imgur.com/OXRyQPV.png" height="150" />
+</div>
 
-📌 Projeto idealizado no Figma: [Portifólio](https://www.figma.com/design/38Qcaa2enXmEjwEm9rg7Hb/Portif%C3%B3lio?node-id=10-0&t=VFwvKxYEpCC0mwhe-1)
+## Projeto da aplicação:
+📌 [Figma](https://www.figma.com/design/38Qcaa2enXmEjwEm9rg7Hb/Portif%C3%B3lio?node-id=10-0&t=VFwvKxYEpCC0mwhe-1) 
 
-## Imagens do App em execução:
-
-📌 [Acessar Deploy]()
+## Execução da aplicação:
+📌 [Deploy](https://origamid-portifolio.vercel.app/)
 
  <br>
  
