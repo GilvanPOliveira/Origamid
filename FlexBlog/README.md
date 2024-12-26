@@ -2,15 +2,16 @@
 
 Projeto feito apenas com Html e Css, para treinamento e aprendizado de todo conteúdo do CSS Flexbox
 
-<p float="left">
- <img src="https://i.imgur.com/OaBlbf6.png" width="300" />
-</p>
+## Imagens da aplicação:
+<div align="left">
+ <img src="https://i.imgur.com/OaBlbf6.png" height="150" />
+</div>
 
-📌 Projeto idealizado no Figma: [FlexBlog](https://imgur.com/T7hJyrp) 
+## Projeto da aplicação:
+📌 [Figma](https://imgur.com/T7hJyrp) 
 
-## Imagens do App em execução:
-
-📌 [Acessar Deploy]()
+## Execução da aplicação:
+📌 [Deploy](https://origamid-flex-blog.vercel.app/)
 
  <br>
  
