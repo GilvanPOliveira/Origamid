@@ -2,15 +2,16 @@
 
 Projeto feito apenas com Html e Css, para treinamento e aprendizado de todo conteúdo do CSS Grid Layout
 
-<p float="left">
- <img src="https://i.imgur.com/n8NVvnN.png" width="300" />
-</p>
+## Imagens da aplicação:
+<div align="left">
+ <img src="https://i.imgur.com/n8NVvnN.png" height="150" />
+</div>
 
-📌 Projeto idealizado no Figma: [WildBeast](https://imgur.com/n8NVvnN) 
+## Projeto da aplicação:
+📌 [Figma](https://imgur.com/n8NVvnN) 
 
-## Imagens do App em execução:
-
-📌 [Acessar Deploy]()
+## Execução da aplicação:
+📌 [Deploy](https://origamid-wildbeast.vercel.app/)
 
  <br>
  
