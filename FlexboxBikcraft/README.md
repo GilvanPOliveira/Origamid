@@ -2,15 +2,16 @@
 
 Projeto feito apenas com Html e Css, para treinamento e aprendizado de todo conteúdo do inicial do FlexBox
 
-<p float="left">
- <img src="https://i.imgur.com/xXzIo1h.png" width="300" />
-</p>
+## Imagens da aplicação:
+<div align="left">
+ <img src="https://i.imgur.com/xXzIo1h.png" height="150" />
+</div>
 
-📌 Projeto idealizado no Figma: [Bikcraft Flexbox](https://imgur.com/2ezUqtv)
+## Projeto da aplicação:
+📌 [Figma](https://imgur.com/2ezUqtv) 
 
-## Imagens do App em execução:
-
-📌 [Acessar Deploy]()
+## Execução da aplicação:
+📌 [Deploy](https://origamid-flexbox-bikcraft.vercel.app/)
 
  <br>
  
