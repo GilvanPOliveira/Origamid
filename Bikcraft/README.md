@@ -11,7 +11,7 @@ Projeto em Html e Css, iniciado no Figma, no curso de UI/UX Design, onde foi ide
 📌 [Figma](https://www.figma.com/design/T0mHgYvnD5AWFa64LDZx0E/Origamid?node-id=0-1&t=uTo2or0gJuxhnbI2-1) 
 
 ## Execução da aplicação:
-📌 [Deploy](https://origamid-bikcraft-snowy.vercel.app/)
+📌 [Deploy](https://origamid-js-bikcraft.vercel.app/)
 
  <br>
  
