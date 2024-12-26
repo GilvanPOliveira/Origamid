@@ -2,14 +2,16 @@
 
 Projeto idealizado para estudo do curso JavaScript Completo ES6
 
-## Imagens do App em execução:
-<div align="center">
- <img src="https://i.imgur.com/ceYxaRL.png" height="200" />
+## Imagens da aplicação:
+<div align="left">
+ <img src="https://i.imgur.com/ceYxaRL.png" height="150" />
 </div>
 
-  <br>
+<!-- ## Projeto da aplicação:
+📌 [Figma]() -->
 
-- [Acessar Deploy](https://origamid-animais-fantasticos.vercel.app/)
+## Execução da aplicação:
+📌 [Deploy](https://origamid-animais-fantasticos.vercel.app/)
 
  <br>
  
