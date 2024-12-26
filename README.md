@@ -1,4 +1,4 @@
-<div align="left"><img src="https://i.imgur.com/ogV8LZc.png" width="75%" /></div>
+<div align="center"><img src="https://i.imgur.com/ogV8LZc.png" width="50%" /></div>
 
 ## 📚 Sobre o Repositório
 
