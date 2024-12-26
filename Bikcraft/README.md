@@ -6,11 +6,11 @@ Projeto em Html e Css, iniciado no Figma, no curso de UI/UX Design, onde foi ide
  <img src="https://i.imgur.com/MCUmkFA.png" width="300" />
 </p>
 
-📌 Projeto idealizado no Figma: [Bikcraft](https://www.figma.com/design/T0mHgYvnD5AWFa64LDZx0E/Origamid?node-id=0-1&t=uTo2or0gJuxhnbI2-1) 
+📌 Acessar Figma: [Bikcraft](https://www.figma.com/design/T0mHgYvnD5AWFa64LDZx0E/Origamid?node-id=0-1&t=uTo2or0gJuxhnbI2-1) 
 
 ## Imagens do App em execução:
-<div align="center">
- <img src="https://i.imgur.com/MCUmkFA.png" height="200" />
+<div align="left">
+ <img src="https://i.imgur.com/MCUmkFA.png" height="300" />
 </div>
 
 📌[Acessar Deploy](https://origamid-bikcraft-snowy.vercel.app/)
