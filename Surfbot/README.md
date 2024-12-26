@@ -8,15 +8,17 @@ Páginas / Seções: Praia, Mapa, Como chegar na praia, Escola, Foto, Aulas, Pre
 
 Esquema de cores: Azul base e Laranja ou Vermelho para ênfase, tons de cinza Utilizar fotos e ícones orgânicos.
 
-<p float="left">
- <img src="https://i.imgur.com/94MWV0P.png" width="300" />
-</p>
 
-📌 Projeto idealizado no Figma: [Surfbot](https://www.figma.com/design/xitTj9hAYpDtYRQdgW8DMy/surfbot?node-id=0-1&t=xnvNkMCdYu9gVErU-1) 
+## Imagens da aplicação:
+<div align="left">
+ <img src="https://i.imgur.com/94MWV0P.png" height="150" />
+</div>
 
-## Imagens do App em execução:
+## Projeto da aplicação:
+📌 [Figma](https://www.figma.com/design/xitTj9hAYpDtYRQdgW8DMy/surfbot?node-id=0-1&t=xnvNkMCdYu9gVErU-1) 
 
-📌 [Acessar Deploy]()
+## Execução da aplicação:
+📌 [Deploy](https://origamid-surfbot.vercel.app/)
 
  <br>
  
