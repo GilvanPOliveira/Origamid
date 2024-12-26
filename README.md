@@ -8,35 +8,35 @@ Há também um repositório com arquivos criados durante as aulas, apenas para r
 
 ## 🚀 Estrutura do Repositório
 
-### Projetos em execução:
+### Projetos:
 
-📌 React e JavaScript: [Animais Fantásticos]() 
+📌 React e JavaScript: [Animais Fantásticos](https://github.com/GilvanPOliveira/Origamid/tree/main/AnimaisFantasticos) 
 
-📌 Html e Css: [Portifólio]()
+📌 Html e Css: [Portifólio](https://github.com/GilvanPOliveira/Origamid/tree/main/Portifolio)
 
-📌 FlexBox: [Bikcraft]()
+📌 FlexBox: [Bikcraft - FlexBox](https://github.com/GilvanPOliveira/Origamid/tree/main/FlexboxBikcraft)
 
-📌 Html, Css e JavaScript: [Bikcraft]() 
+📌 Html, Css e JavaScript: [Bikcraft](https://github.com/GilvanPOliveira/Origamid/tree/main/Bikcraft) 
 
-📌 Css Flexbox: [FlexBlog]() 
+📌 Css Flexbox: [FlexBlog](https://github.com/GilvanPOliveira/Origamid/tree/main/FlexBlog) 
 
-📌 Css Grid Layout: [WildBeast]()
+📌 Css Grid Layout: [WildBeast](https://github.com/GilvanPOliveira/Origamid/tree/main/WildBeast)
 
-📌 Html e Css: [Surfbot]()
+📌 Html e Css: [Surfbot](https://github.com/GilvanPOliveira/Origamid/tree/main/Surfbot)
 
 ## Grade do Curso:
 
-[ X ] - 01 - [UI Design para Iniciantes]()
+[ X ] - 01 - [UI Design para Iniciantes](https://drive.google.com/file/d/1MGM5j8YMlk-k0Wyc4wwItpuW2_9kPNMy/view?usp=sharing)
 
-[ X ] - 02 - [HTML e CSS para Iniciantes]()
+[ X ] - 02 - [HTML e CSS para Iniciantes](https://drive.google.com/file/d/1MGrivwiIzcl94sV6W5MWEKTkXB4eHSTy/view?usp=sharing)
 
-[ X ] - 03 - [CSS Flexbox]()
+[ X ] - 03 - [CSS Flexbox](https://drive.google.com/file/d/1GNaesjFDzPFSebE1Sgy7bMsyV9uJdnuR/view?usp=sharing)
 
-[ X ] - 04 - [CSS Grid Layout]()
+[ X ] - 04 - [CSS Grid Layout](https://drive.google.com/file/d/11fhAHKYyH14t_1k9fe5fDn3zj5_kMASB/view?usp=sharing)
 
-[ X ] - 05 - [UI Design Avançado]()
+[ X ] - 05 - [UI Design Avançado](https://drive.google.com/file/d/1gegBpHRFH7VxZX_bD-YaA4SStzix3pw7/view?usp=sharing)
 
-[ X ] - 06 - [JavaScript Completo ES6]()
+[ X ] - 06 - [JavaScript Completo ES6](https://drive.google.com/file/d/1UDAqwzzQtbmyHHnsl5KCWBDLNsGeQlpD/view?usp=sharing)
 
 [ ] - 07 - React Completo
 
