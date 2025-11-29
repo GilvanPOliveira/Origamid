@@ -1,4 +1,4 @@
-<div align="center"><img src="https://i.imgur.com/ogV8LZc.png" width="50%" /></div>
+<div align="center"><a href="https://www.origamid.com/"><img src="https://i.imgur.com/ogV8LZc.png" width="50%" /></a></div>
 
 ## 📚 Sobre o Repositório
 
@@ -6,7 +6,7 @@ Este repositório concentra todo o conteúdo estudado no curso da plataforma Ori
 
 Há também um repositório com arquivos criados durante as aulas, apenas para reforço do conhecimento adquirido e projetos desenvolvidos em execução.
 
-## 🚀 Estrutura do Repositório
+## 🚀 Estrutura do Repositório 
 
 ### Projetos:
 
@@ -24,7 +24,7 @@ Há também um repositório com arquivos criados durante as aulas, apenas para r
 
 📌 Html e Css: [Surfbot](https://github.com/GilvanPOliveira/Origamid/tree/main/Surfbot)
 
-## Grade do Curso:
+## Grade do Curso - 🐺 [Origamid](https://www.origamid.com/)
 
 [ X ] - 01 - [UI Design para Iniciantes](https://drive.google.com/file/d/1MGM5j8YMlk-k0Wyc4wwItpuW2_9kPNMy/view?usp=sharing)
 
@@ -71,8 +71,6 @@ Há também um repositório com arquivos criados durante as aulas, apenas para r
 [ ] - 22 - Automação Front End com NPM
 
 [ ] - 23 - JavaScript e jQuery
-
-### 🐺 [Origamid](https://www.origamid.com/)
 
 ## 🛠 Tecnologias Utilizadas
 

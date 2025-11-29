@@ -1,18 +1,37 @@
-# CSS FlexBox
+<div align="center"><a href="https://www.origamid.com/"><img src="https://i.imgur.com/ogV8LZc.png" width="50%" /></a></div>
+
+## 📚 Sobre o Projeto
 
 Projeto feito apenas com Html e Css, para treinamento e aprendizado de todo conteúdo do CSS Flexbox
 
-## Imagens da aplicação:
-<div align="left">
- <img src="https://i.imgur.com/OaBlbf6.png" height="150" />
-</div>
+## 🚀 Execução do Projeto
 
-## Projeto da aplicação:
-📌 [Figma](https://imgur.com/T7hJyrp) 
+📌 Deploy: [https://origamid-flexbox-blog.vercel.app/](https://origamid-flexbox-blog.vercel.app/)
 
-## Execução da aplicação:
-📌 [Deploy](https://origamid-flex-blog.vercel.app/)
 
- <br>
- 
-[<- Retornar ao Origamid](https://github.com/GilvanPOliveira/Origamid)
+## 🧱 Estrutura do Projeto
+
+- `css/`
+- `img/`
+- `index.html`
+
+## ▶️ Como executar localmente
+
+- Abra o arquivo `index.html` no navegador **ou** use a extensão **Live Server** (VS Code) para uma melhor experiência.
+
+<div align="center"><img src="https://i.imgur.com/OaBlbf6.png" width="50%" /></div>
+
+## 🛠 Tecnologias Utilizadas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://github.com/GilvanPOliveira)
+
+## 📬 Contato
+
+Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
+- E-mail: gilvanoliveira06@gmail.com
+- Portifólio: [Gilvan Oliveira](https://gilvanpoliveira.github.io/)
+
+
+<br>
+
+[<- Retornar](https://github.com/GilvanPOliveira/Origamid)
