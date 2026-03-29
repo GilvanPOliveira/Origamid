@@ -1,35 +1,70 @@
-<div align="center"><a href="https://www.origamid.com/"><img src="https://i.imgur.com/ogV8LZc.png" width="50%" /></a></div>
+# Formulários
 
-## 📚 Sobre o Estudo
+Estudo prático focado na criação e estilização de formulários com HTML e CSS.
 
-Exercícios voltados a **formulários no HTML** e estilização no CSS, com foco em acessibilidade e estados de interação.
+##
 
-## 🧠 O que foi estudado
+## Sobre
 
-- `label`, `input`, `textarea`, `select`, `button`
-- Tipos de input e validações básicas
-- Estados: `:focus`, `:hover`, `:disabled`, `:checked`
-- Boas práticas de acessibilidade (labels e foco)
+Este projeto foi desenvolvido com foco na construção de formulários acessíveis e bem estruturados.
 
-## 🧱 Estrutura do Estudo
+A proposta foi aplicar boas práticas de marcação HTML e estilização de elementos de formulário.
 
-- `index.html`
-- `style.css`
+##
 
-## ▶️ Como executar localmente
+## Objetivo
 
-- Abra o arquivo `index.html` no navegador **ou** use a extensão **Live Server** (VS Code).
+Consolidar conhecimentos em desenvolvimento frontend, incluindo:
 
-## 🛠 Tecnologias Utilizadas
+* estruturação de formulários com HTML
+* estilização de inputs e controles
+* aplicação de estados de interação
+* boas práticas de acessibilidade
 
-[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://github.com/GilvanPOliveira)
+##
 
-## 📬 Contato
+## Conteúdos
 
-Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
-- E-mail: gilvanoliveira06@gmail.com
-- Portifólio: [Gilvan Oliveira](https://gilvanpoliveira.github.io/)
+### Formulários
 
-<br>
+* uso de label, input, textarea, select e button
+* tipos de input e validações básicas
+* estados como :focus, :hover, :disabled e :checked
+* associação correta entre label e campos
+* melhorias de acessibilidade e usabilidade
 
-[<- Retornar](https://github.com/GilvanPOliveira/Origamid/tree/main/Estudos)  
+##
+
+## Estrutura do Projeto
+
+```text
+index.html
+style.css
+```
+
+##
+
+## Execução Local
+
+* abrir o arquivo `index.html` no navegador  
+* ou utilizar a extensão Live Server no VS Code  
+
+##
+
+## Tecnologias Utilizadas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://skillicons.dev)
+
+* HTML  
+* CSS  
+
+##
+
+## Contato
+
+* Portfólio: https://gilvanpoliveira.github.io  
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
+
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/Origamid/tree/main/Estudos)
