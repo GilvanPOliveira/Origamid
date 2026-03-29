@@ -1,51 +1,108 @@
-<div align="center"><a href="https://www.origamid.com/"><img src="https://i.imgur.com/ogV8LZc.png" width="50%" /></a></div>
+# Surfbot
 
-## 📚 Sobre o Projeto
+Aplicação web desenvolvida como site de uma escola de surf.
 
-Idealização e captação de ideias do Projeto:
+##
 
-Surfbot, Escola de surf localizada na Praia Mansa, Rio de Janeiro, aulas para Adultos, Crianças e Profissionais. Vender aulas online.
+## Sobre
 
-Páginas / Seções: Praia, Mapa, Como chegar na praia, Escola, Foto, Aulas, Preço, Duração, Divisão já com o preço, Matricule-se, Contato, Horários e Dias, Local, Exatamente onde está a empresa.
+Este projeto foi desenvolvido com foco na criação de uma interface baseada em um layout definido no Figma.
 
-Esquema de cores: Azul base e Laranja ou Vermelho para ênfase, tons de cinza Utilizar fotos e ícones orgânicos.
+A proposta foi simular o site de uma escola de surf localizada no Rio de Janeiro, com apresentação de serviços e informações institucionais.
 
-## 🚀 Execução do Projeto
+##
 
-📌 Deploy: [https://origamid-surfbot.vercel.app/](https://origamid-surfbot.vercel.app/)
+## Objetivo
 
+Consolidar conhecimentos em desenvolvimento frontend, incluindo:
 
-🎨 Layout (Figma): [https://www.figma.com/design/xitTj9hAYpDtYRQdgW8DMy/surfbot?node-id=0-1&t=xnvNkMCdYu9gVErU-1](https://www.figma.com/design/xitTj9hAYpDtYRQdgW8DMy/surfbot?node-id=0-1&t=xnvNkMCdYu9gVErU-1)
+* estruturação de páginas com HTML
+* estilização com CSS
+* construção de layouts baseados em design
+* organização de múltiplas páginas
+* criação de interfaces responsivas
 
+##
 
-## 🧱 Estrutura do Projeto
+## Funcionalidades
 
-- `fotos/` 
-- `icones/`  
-- `surfbot-assets/` 
-- `index.css`
-- `index.html`
-- `matricula.css` 
-- `matricula.html` 
-- `style.css`
+### Interface
 
-## ▶️ Como executar localmente
+* layout de site institucional
+* apresentação de serviços e informações da escola
 
-- Abra o arquivo `index.html` no navegador **ou** use a extensão **Live Server** (VS Code) para uma melhor experiência.
+##
 
-<div align="center"><img src="https://i.imgur.com/94MWV0P.png" width="50%" /></div>
+### Navegação
 
-## 🛠 Tecnologias Utilizadas
+* estrutura com múltiplas páginas
+* organização de conteúdo por seções
 
-[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://github.com/GilvanPOliveira)
+##
 
-## 📬 Contato
+### Layout
 
-Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
-- E-mail: gilvanoliveira06@gmail.com
-- Portifólio: [Gilvan Oliveira](https://gilvanpoliveira.github.io/)
+* aplicação de identidade visual baseada em cores e elementos gráficos
+* uso de imagens e ícones para composição visual
 
+##
 
-<br>
+## Execução
 
-[<- Retornar](https://github.com/GilvanPOliveira/Origamid)
+* [Deploy](https://origamid-surfbot.vercel.app/)
+
+##
+
+## Projeto
+
+* [Figma](https://www.figma.com/design/xitTj9hAYpDtYRQdgW8DMy/surfbot?node-id=0-1&t=xnvNkMCdYu9gVErU-1)
+
+##
+
+## Estrutura do Projeto
+
+```text
+fotos/
+icones/
+surfbot-assets/
+index.css
+index.html
+matricula.css
+matricula.html
+style.css
+```
+
+##
+
+## Execução Local
+
+* abrir o arquivo `index.html` no navegador  
+* ou utilizar a extensão Live Server no VS Code  
+
+##
+
+## Imagens da Aplicação
+
+<div align="center">
+ <img src="https://i.imgur.com/94MWV0P.png" width="50%" />
+</div>
+
+##
+
+## Tecnologias Utilizadas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://skillicons.dev)
+
+* HTML  
+* CSS  
+
+##
+
+## Contato
+
+* Portfólio: https://gilvanpoliveira.github.io  
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
+
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/Origamid)
