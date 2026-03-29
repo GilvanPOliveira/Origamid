@@ -1,36 +1,71 @@
-<div align="center"><a href="https://www.origamid.com/"><img src="https://i.imgur.com/ogV8LZc.png" width="50%" /></a></div>
+# CSS Grid (Colunas e Linhas)
 
-## 📚 Sobre o Estudo
+Estudo prático focado no posicionamento de elementos utilizando CSS Grid.
 
-Estudo prático de **CSS Grid**, com foco em colunas, linhas e posicionamento de elementos na grade.
+##
 
-## 🧠 O que foi estudado
+## Sobre
 
-- `display: grid`
-- `grid-template-columns` e `grid-template-rows`
-- `grid-column` / `grid-row` e `span`
-- `gap` e alinhamentos básicos
+Este projeto foi desenvolvido com foco na estruturação de layouts utilizando colunas e linhas no CSS Grid.
 
-## 🧱 Estrutura do Estudo
+A proposta foi explorar o posicionamento de elementos dentro da grade e o controle de espaçamento e alinhamento.
 
-- `img/`
-- `index.html`
-- `style.css`
+##
 
-## ▶️ Como executar localmente
+## Objetivo
 
-- Abra o arquivo `index.html` no navegador **ou** use a extensão **Live Server** (VS Code).
+Consolidar conhecimentos em desenvolvimento frontend, incluindo:
 
-## 🛠 Tecnologias Utilizadas
+* uso de CSS Grid para layout
+* definição de colunas e linhas
+* posicionamento de elementos na grade
+* controle de espaçamento e alinhamento
 
-[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://github.com/GilvanPOliveira)
+##
 
-## 📬 Contato
+## Conteúdos
 
-Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
-- E-mail: gilvanoliveira06@gmail.com
-- Portifólio: [Gilvan Oliveira](https://gilvanpoliveira.github.io/)
+### CSS Grid
 
-<br>
+* uso de display: grid
+* definição de grid-template-columns e grid-template-rows
+* posicionamento com grid-column e grid-row
+* uso de span para expansão de elementos
+* controle de espaçamento com gap
 
-[<- Retornar](https://github.com/GilvanPOliveira/Origamid/tree/main/Estudos)  
+##
+
+## Estrutura do Projeto
+
+```text
+img/
+index.html
+style.css
+```
+
+##
+
+## Execução Local
+
+* abrir o arquivo `index.html` no navegador  
+* ou utilizar a extensão Live Server no VS Code  
+
+##
+
+## Tecnologias Utilizadas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://skillicons.dev)
+
+* HTML  
+* CSS  
+
+##
+
+## Contato
+
+* Portfólio: https://gilvanpoliveira.github.io  
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
+
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/Origamid/tree/main/Estudos)
