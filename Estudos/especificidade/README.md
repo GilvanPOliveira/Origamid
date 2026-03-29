@@ -1,35 +1,69 @@
-<div align="center"><a href="https://www.origamid.com/"><img src="https://i.imgur.com/ogV8LZc.png" width="50%" /></a></div>
+# Cascata e Especificidade
 
-## 📚 Sobre o Estudo
+Estudo prático focado no funcionamento da cascata e da especificidade no CSS.
 
-Exercícios para entender **cascata e especificidade do CSS**, evitando conflitos e prevendo qual regra será aplicada.
+##
 
-## 🧠 O que foi estudado
+## Sobre
 
-- Ordem da cascata (source order)
-- Peso de seletores (tag, classe, id)
-- Herdabilidade
-- Boas práticas para evitar `!important`
+Este projeto foi desenvolvido com foco na compreensão de como o CSS decide quais estilos serão aplicados.
 
-## 🧱 Estrutura do Estudo
+A proposta foi explorar regras de cascata, peso de seletores e herança de propriedades.
 
-- `index.html`
-- `style.css` 
+##
 
-## ▶️ Como executar localmente
+## Objetivo
 
-- Abra o arquivo `index.html` no navegador **ou** use a extensão **Live Server** (VS Code).
+Consolidar conhecimentos em desenvolvimento frontend, incluindo:
 
-## 🛠 Tecnologias Utilizadas
+* funcionamento da cascata no CSS
+* cálculo de especificidade de seletores
+* entendimento de herança de estilos
+* boas práticas para evitar conflitos
 
-[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://github.com/GilvanPOliveira)
+##
 
-## 📬 Contato
+## Conteúdos
 
-Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
-- E-mail: gilvanoliveira06@gmail.com
-- Portifólio: [Gilvan Oliveira](https://gilvanpoliveira.github.io/)
+### CSS
 
-<br>
+* ordem da cascata (source order)
+* peso de seletores (tag, classe, id)
+* herança de propriedades
+* boas práticas para evitar uso de !important
 
-[<- Retornar](https://github.com/GilvanPOliveira/Origamid/tree/main/Estudos)  
+##
+
+## Estrutura do Projeto
+
+```text
+index.html
+style.css
+```
+
+##
+
+## Execução Local
+
+* abrir o arquivo `index.html` no navegador  
+* ou utilizar a extensão Live Server no VS Code  
+
+##
+
+## Tecnologias Utilizadas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://skillicons.dev)
+
+* HTML  
+* CSS  
+
+##
+
+## Contato
+
+* Portfólio: https://gilvanpoliveira.github.io  
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
+
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/Origamid/tree/main/Estudos)
