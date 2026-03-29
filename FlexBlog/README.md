@@ -1,37 +1,96 @@
-<div align="center"><a href="https://www.origamid.com/"><img src="https://i.imgur.com/ogV8LZc.png" width="50%" /></a></div>
+# FlexBlog
 
-## 📚 Sobre o Projeto
+Aplicação web desenvolvida para prática de CSS Flexbox.
 
-Projeto feito apenas com Html e Css, para treinamento e aprendizado de todo conteúdo do CSS Flexbox
+##
 
-## 🚀 Execução do Projeto
+## Sobre
 
-📌 Deploy: [https://origamid-flexbox-blog.vercel.app/](https://origamid-flexbox-blog.vercel.app/)
+Este projeto foi desenvolvido com foco no aprendizado e aplicação de layouts utilizando CSS Flexbox.
 
+A proposta foi construir uma interface de blog estruturada e responsiva utilizando apenas HTML e CSS.
 
-## 🧱 Estrutura do Projeto
+##
 
-- `css/`
-- `img/`
-- `index.html`
+## Objetivo
 
-## ▶️ Como executar localmente
+Consolidar conhecimentos em desenvolvimento frontend, incluindo:
 
-- Abra o arquivo `index.html` no navegador **ou** use a extensão **Live Server** (VS Code) para uma melhor experiência.
+* estruturação de páginas com HTML
+* estilização com CSS
+* uso de Flexbox para layout
+* organização de elementos na interface
+* construção de layouts responsivos
 
-<div align="center"><img src="https://i.imgur.com/OaBlbf6.png" width="50%" /></div>
+##
 
-## 🛠 Tecnologias Utilizadas
+## Funcionalidades
 
-[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://github.com/GilvanPOliveira)
+### Interface
 
-## 📬 Contato
+* layout de blog com organização de conteúdo
+* estrutura visual baseada em Flexbox
 
-Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
-- E-mail: gilvanoliveira06@gmail.com
-- Portifólio: [Gilvan Oliveira](https://gilvanpoliveira.github.io/)
+##
 
+### Layout
 
-<br>
+* posicionamento de elementos utilizando Flexbox
+* alinhamento e distribuição de conteúdo
 
-[<- Retornar](https://github.com/GilvanPOliveira/Origamid)
+##
+
+### Responsividade
+
+* adaptação para diferentes tamanhos de tela
+
+##
+
+## Execução
+
+* [Deploy](https://origamid-flexbox-blog.vercel.app/)
+
+##
+
+## Estrutura do Projeto
+
+```text
+css/
+img/
+index.html
+```
+
+##
+
+## Execução Local
+
+* abrir o arquivo `index.html` no navegador  
+* ou utilizar a extensão Live Server no VS Code  
+
+##
+
+## Imagens da Aplicação
+
+<div align="center">
+ <img src="https://i.imgur.com/OaBlbf6.png" width="50%" />
+</div>
+
+##
+
+## Tecnologias Utilizadas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://skillicons.dev)
+
+* HTML  
+* CSS  
+
+##
+
+## Contato
+
+* Portfólio: https://gilvanpoliveira.github.io  
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
+
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/Origamid)
