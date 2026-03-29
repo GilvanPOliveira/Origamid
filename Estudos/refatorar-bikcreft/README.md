@@ -1,36 +1,70 @@
-<div align="center"><a href="https://www.origamid.com/"><img src="https://i.imgur.com/ogV8LZc.png" width="50%" /></a></div>
+# Refatoração Bikcraft
 
-## 📚 Sobre o Estudo
+Estudo prático focado em refatoração e organização de código utilizando HTML e CSS.
 
-Refatoração de arquivos do projeto (Bikcraft), com foco em **organização, consistência e melhorias no CSS/HTML**.
+##
 
-## 🧠 O que foi estudado
+## Sobre
 
-- Melhor organização de estrutura e estilos
-- Reuso de classes e padrões (evitar repetição)
-- Padronização de espaçamentos e tipografia
-- Melhor leitura e manutenção do código
+Este projeto foi desenvolvido com foco na melhoria da estrutura e organização de código.
 
-## 🧱 Estrutura do Estudo
+A proposta foi refatorar o projeto Bikcraft, aplicando boas práticas para tornar o código mais limpo, reutilizável e fácil de manter.
 
-- `img/`
-- `index.html`
-- `style.css`
+##
 
-## ▶️ Como executar localmente
+## Objetivo
 
-- Abra o arquivo `index.html` no navegador **ou** use a extensão **Live Server** (VS Code).
+Consolidar conhecimentos em desenvolvimento frontend, incluindo:
 
-## 🛠 Tecnologias Utilizadas
+* organização de estrutura HTML
+* padronização de estilos CSS
+* reutilização de classes
+* melhoria de legibilidade e manutenção do código
 
-[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://github.com/GilvanPOliveira)
+##
 
-## 📬 Contato
+## Conteúdos
 
-Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
-- E-mail: gilvanoliveira06@gmail.com
-- Portifólio: [Gilvan Oliveira](https://gilvanpoliveira.github.io/)
+### Refatoração
 
-<br>
+* reorganização de estrutura e estilos
+* redução de repetição de código
+* padronização de espaçamentos e tipografia
+* melhoria da clareza e manutenção do código
 
-[<- Retornar](https://github.com/GilvanPOliveira/Origamid/tree/main/Estudos)  
+##
+
+## Estrutura do Projeto
+
+```text
+img/
+index.html
+style.css
+```
+
+##
+
+## Execução Local
+
+* abrir o arquivo `index.html` no navegador  
+* ou utilizar a extensão Live Server no VS Code  
+
+##
+
+## Tecnologias Utilizadas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://skillicons.dev)
+
+* HTML  
+* CSS  
+
+##
+
+## Contato
+
+* Portfólio: https://gilvanpoliveira.github.io  
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
+
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/Origamid/tree/main/Estudos)
