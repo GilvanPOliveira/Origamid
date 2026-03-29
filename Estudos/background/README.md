@@ -1,39 +1,72 @@
-<div align="center"><a href="https://www.origamid.com/"><img src="https://i.imgur.com/ogV8LZc.png" width="50%" /></a></div>
+# Background
 
-## 📚 Sobre o Estudo
+Estudo prático focado no uso de backgrounds com CSS.
 
-Exercícios focados em **backgrounds no CSS**, praticando imagens de fundo, repetição, posicionamento e ajustes de escala.
+##
 
-## 🧠 O que foi estudado
+## Sobre
 
-- `background-color`
-- `background-image`
-- `background-repeat`
-- `background-position`
-- `background-size`
+Este projeto foi desenvolvido com foco na aplicação de imagens e cores de fundo em layouts.
 
-Boas práticas para imagens de fundo em layouts
+A proposta foi explorar propriedades relacionadas a background para composição visual.
 
-## 🧱 Estrutura do Estudo
+##
 
-- `img/`
-- `index.html`
-- `style.css`
+## Objetivo
 
-## ▶️ Como executar localmente
+Consolidar conhecimentos em desenvolvimento frontend, incluindo:
 
-- Abra o arquivo `index.html` no navegador **ou** use a extensão **Live Server** (VS Code).
+* uso de cores e imagens de fundo
+* controle de posicionamento e repetição
+* ajuste de escala de imagens
+* aplicação de boas práticas em backgrounds
 
-## 🛠 Tecnologias Utilizadas
+##
 
-[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://github.com/GilvanPOliveira)
+## Conteúdos
 
-## 📬 Contato
+### Background
 
-Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
-- E-mail: gilvanoliveira06@gmail.com
-- Portifólio: [Gilvan Oliveira](https://gilvanpoliveira.github.io/)
+* uso de background-color
+* aplicação de background-image
+* controle com background-repeat
+* posicionamento com background-position
+* ajuste com background-size
+* boas práticas para uso de imagens de fundo
 
-<br>
+##
 
-[<- Retornar](https://github.com/GilvanPOliveira/Origamid/tree/main/Estudos)  
+## Estrutura do Projeto
+
+```text
+img/
+index.html
+style.css
+```
+
+##
+
+## Execução Local
+
+* abrir o arquivo `index.html` no navegador  
+* ou utilizar a extensão Live Server no VS Code  
+
+##
+
+## Tecnologias Utilizadas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://skillicons.dev)
+
+* HTML  
+* CSS  
+
+##
+
+## Contato
+
+* Portfólio: https://gilvanpoliveira.github.io  
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
+
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/Origamid/tree/main/Estudos)
