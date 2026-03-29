@@ -1,35 +1,70 @@
-<div align="center"><a href="https://www.origamid.com/"><img src="https://i.imgur.com/ogV8LZc.png" width="50%" /></a></div>
+# CSS Grid (Exemplos)
 
-## 📚 Sobre o Estudo
+Estudo prático focado na construção de layouts utilizando CSS Grid.
 
-Exemplos de layout usando **CSS Grid**, aplicando estruturas mais completas e variações de organização.
+##
 
-## 🧠 O que foi estudado
+## Sobre
 
-- Construção de layout em grid
-- Organização por áreas (quando aplicável)
-- Responsividade com grid
-- Ajustes de alinhamento e espaçamento
+Este projeto foi desenvolvido com foco na criação de layouts mais estruturados utilizando CSS Grid.
 
-## 🧱 Estrutura do Estudo
+A proposta foi explorar diferentes formas de organização de elementos em grade.
 
-- `index.html`
-- `style.css`
+##
 
-## ▶️ Como executar localmente
+## Objetivo
 
-- Abra o arquivo `index.html` no navegador **ou** use a extensão **Live Server** (VS Code).
+Consolidar conhecimentos em desenvolvimento frontend, incluindo:
 
-## 🛠 Tecnologias Utilizadas
+* construção de layouts com CSS Grid
+* organização de conteúdo em áreas
+* controle de alinhamento e espaçamento
+* adaptação de layout para diferentes telas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://github.com/GilvanPOliveira)
+##
 
-## 📬 Contato
+## Conteúdos
 
-Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
-- E-mail: gilvanoliveira06@gmail.com
-- Portifólio: [Gilvan Oliveira](https://gilvanpoliveira.github.io/)
+### CSS Grid
 
-<br>
+* criação de layouts em grid
+* uso de áreas (quando aplicável)
+* controle de colunas e linhas
+* ajustes de alinhamento e distribuição
+* responsividade com grid
 
-[<- Retornar](https://github.com/GilvanPOliveira/Origamid/tree/main/Estudos)  
+##
+
+## Estrutura do Projeto
+
+```text
+index.html
+style.css
+```
+
+##
+
+## Execução Local
+
+* abrir o arquivo `index.html` no navegador  
+* ou utilizar a extensão Live Server no VS Code  
+
+##
+
+## Tecnologias Utilizadas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://skillicons.dev)
+
+* HTML  
+* CSS  
+
+##
+
+## Contato
+
+* Portfólio: https://gilvanpoliveira.github.io  
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
+
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/Origamid/tree/main/Estudos)
