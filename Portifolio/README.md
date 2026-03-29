@@ -1,40 +1,102 @@
-<div align="center"><a href="https://www.origamid.com/"><img src="https://i.imgur.com/ogV8LZc.png" width="50%" /></a></div>
+# Portfólio
 
-## 📚 Sobre o Projeto
+Aplicação web desenvolvida como portfólio para prática de HTML e CSS.
 
-Projeto idealizado para estudos de HTML e CSS
+##
 
-## 🚀 Execução do Projeto
+## Sobre
 
-📌 Deploy: [https://origamid-portifolio.vercel.app/](https://origamid-portifolio.vercel.app/)
+Este projeto foi desenvolvido com foco no aprendizado de estruturação e estilização de páginas web.
 
+A proposta foi criar uma interface de portfólio baseada em um layout definido no Figma.
 
-🎨 Layout (Figma): [https://www.figma.com/design/38Qcaa2enXmEjwEm9rg7Hb/Portif%C3%B3lio?node-id=10-0&t=VFwvKxYEpCC0mwhe-1](https://www.figma.com/design/38Qcaa2enXmEjwEm9rg7Hb/Portif%C3%B3lio?node-id=10-0&t=VFwvKxYEpCC0mwhe-1)
+##
 
+## Objetivo
 
-## 🧱 Estrutura do Projeto
+Consolidar conhecimentos em desenvolvimento frontend, incluindo:
 
-- `css/` 
-- `img/` 
-- `index.html`
+* estruturação de páginas com HTML
+* estilização com CSS
+* construção de layouts baseados em design
+* organização de conteúdo
+* criação de interfaces responsivas
 
-## ▶️ Como executar localmente
+##
 
-- Abra o arquivo `index.html` no navegador **ou** use a extensão **Live Server** (VS Code) para uma melhor experiência.
+## Funcionalidades
 
-<div align="center"><img src="https://i.imgur.com/OXRyQPV.png" width="50%" /></div>
+### Interface
 
-## 🛠 Tecnologias Utilizadas
+* layout de portfólio pessoal
+* apresentação de informações e conteúdos
 
-[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://github.com/GilvanPOliveira)
+##
 
-## 📬 Contato
+### Layout
 
-Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
-- E-mail: gilvanoliveira06@gmail.com
-- Portifólio: [Gilvan Oliveira](https://gilvanpoliveira.github.io/)
+* organização visual baseada em design
+* aplicação de boas práticas de estilização
 
+##
 
-<br>
+### Responsividade
 
-[<- Retornar](https://github.com/GilvanPOliveira/Origamid)
+* adaptação para diferentes tamanhos de tela
+
+##
+
+## Execução
+
+* [Deploy](https://origamid-portifolio.vercel.app/)
+
+##
+
+## Projeto
+
+* [Figma](https://www.figma.com/design/38Qcaa2enXmEjwEm9rg7Hb/Portif%C3%B3lio?node-id=10-0&t=VFwvKxYEpCC0mwhe-1)
+
+##
+
+## Estrutura do Projeto
+
+```text
+css/
+img/
+index.html
+```
+
+##
+
+## Execução Local
+
+* abrir o arquivo `index.html` no navegador  
+* ou utilizar a extensão Live Server no VS Code  
+
+##
+
+## Imagens da Aplicação
+
+<div align="center">
+ <img src="https://i.imgur.com/OXRyQPV.png" width="50%" />
+</div>
+
+##
+
+## Tecnologias Utilizadas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://skillicons.dev)
+
+* HTML  
+* CSS  
+
+##
+
+## Contato
+
+* Portfólio: https://gilvanpoliveira.github.io  
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
+
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/Origamid)
