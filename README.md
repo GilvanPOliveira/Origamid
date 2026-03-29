@@ -1,83 +1,100 @@
-<div align="center"><a href="https://www.origamid.com/"><img src="https://i.imgur.com/ogV8LZc.png" width="50%" /></a></div>
+# Origamid
 
-## 📚 Sobre o Repositório
+Repositório com projetos e estudos desenvolvidos durante o curso Origamid.
 
-Este repositório concentra todo o conteúdo estudado no curso da plataforma Origamid, reunindo todos os projetos desenvolvidos ao longo do programa. A organização é feita por módulos dos projetos elaborados, o README principal de cada projeto inclui também o link para o deploy, permitindo a interação direta com a aplicação em produção. Essa estrutura tem como objetivo facilitar a localização e avaliação dos projetos, além de servir como referência para estudantes e desenvolvedores interessados em aprender as linguagens e tecnologias empregadas.
+##
 
-Há também um repositório com arquivos criados durante as aulas, apenas para reforço do conhecimento adquirido e projetos desenvolvidos em execução.
+## Sobre
 
-## 🚀 Estrutura do Repositório 
+Este repositório reúne os projetos desenvolvidos ao longo do curso da plataforma Origamid.
 
-### Projetos:
+A organização é feita por módulos, permitindo acompanhar a evolução do aprendizado em diferentes tecnologias e abordagens.
 
-📌 React e JavaScript: [Animais Fantásticos](https://github.com/GilvanPOliveira/Origamid/tree/main/AnimaisFantasticos) 
+##
 
-📌 Html e Css: [Portifólio](https://github.com/GilvanPOliveira/Origamid/tree/main/Portifolio)
+## Objetivo
 
-📌 FlexBox: [Bikcraft - FlexBox](https://github.com/GilvanPOliveira/Origamid/tree/main/FlexboxBikcraft)
+Consolidar conhecimentos em desenvolvimento frontend, incluindo:
 
-📌 Html, Css e JavaScript: [Bikcraft](https://github.com/GilvanPOliveira/Origamid/tree/main/Bikcraft) 
+* estruturação de páginas web
+* estilização com CSS
+* manipulação com JavaScript
+* desenvolvimento de interfaces com React
+* organização de projetos
 
-📌 Css Flexbox: [FlexBlog](https://github.com/GilvanPOliveira/Origamid/tree/main/FlexBlog) 
+##
 
-📌 Css Grid Layout: [WildBeast](https://github.com/GilvanPOliveira/Origamid/tree/main/WildBeast)
+## Conteúdos
 
-📌 Html e Css: [Surfbot](https://github.com/GilvanPOliveira/Origamid/tree/main/Surfbot)
+### Projetos
 
-## Grade do Curso - 🐺 [Origamid](https://www.origamid.com/)
+* [Animais Fantásticos](https://github.com/GilvanPOliveira/Origamid/tree/main/AnimaisFantasticos)
+* [Portfólio](https://github.com/GilvanPOliveira/Origamid/tree/main/Portifolio)
+* [Bikcraft - Flexbox](https://github.com/GilvanPOliveira/Origamid/tree/main/FlexboxBikcraft)
+* [Bikcraft](https://github.com/GilvanPOliveira/Origamid/tree/main/Bikcraft)
+* [FlexBlog](https://github.com/GilvanPOliveira/Origamid/tree/main/FlexBlog)
+* [WildBeast](https://github.com/GilvanPOliveira/Origamid/tree/main/WildBeast)
+* [Surfbot](https://github.com/GilvanPOliveira/Origamid/tree/main/Surfbot)
 
-[ X ] - 01 - [UI Design para Iniciantes](https://drive.google.com/file/d/1MGM5j8YMlk-k0Wyc4wwItpuW2_9kPNMy/view?usp=sharing)
+##
 
-[ X ] - 02 - [HTML e CSS para Iniciantes](https://drive.google.com/file/d/1MGrivwiIzcl94sV6W5MWEKTkXB4eHSTy/view?usp=sharing)
+## Estrutura do Repositório
 
-[ X ] - 03 - [CSS Flexbox](https://drive.google.com/file/d/1GNaesjFDzPFSebE1Sgy7bMsyV9uJdnuR/view?usp=sharing)
+```text
+Origamid/
+├─ AnimaisFantasticos/
+├─ Portifolio/
+├─ FlexboxBikcraft/
+├─ Bikcraft/
+├─ FlexBlog/
+├─ WildBeast/
+└─ Surfbot/
+```
 
-[ X ] - 04 - [CSS Grid Layout](https://drive.google.com/file/d/11fhAHKYyH14t_1k9fe5fDn3zj5_kMASB/view?usp=sharing)
+##
 
-[ X ] - 05 - [UI Design Avançado](https://drive.google.com/file/d/1gegBpHRFH7VxZX_bD-YaA4SStzix3pw7/view?usp=sharing)
+## Progresso do Curso
 
-[ X ] - 06 - [JavaScript Completo ES6](https://drive.google.com/file/d/1UDAqwzzQtbmyHHnsl5KCWBDLNsGeQlpD/view?usp=sharing)
+### Origamid
 
-[ ] - 07 - React Completo
+* UI Design para Iniciantes  
+* HTML e CSS para Iniciantes  
+* CSS Flexbox  
+* CSS Grid Layout  
+* UI Design Avançado  
+* JavaScript Completo ES6  
+* React Completo  
+* WordPress REST API Dogs  
+* TypeScript para Iniciantes  
+* React com TypeScript  
+* Redux com React  
+* WordPress Como CMS  
+* CSS Avançado Posicionamento  
+* Tipografia Avançada  
+* CSS com SASS  
+* UX Design Heurísticas  
+* Adobe XD  
+* Vue.js 2 Completo  
+* WordPress REST API  
+* WooCommerce Como CMS  
+* Bootstrap 4  
+* Automação Front End com NPM  
+* JavaScript e jQuery  
 
-[ ] - 08 - WordPress REST API Dogs
+##
 
-[ ] - 09 - TypeScript para Iniciantes
+## Tecnologias Utilizadas
 
-[ ] - 10 - React com TypeScript
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react&perline=10)](https://skillicons.dev)
 
-[ ] - 11 - Redux com React
+* HTML  
+* CSS  
+* JavaScript  
+* React  
 
-[ ] - 12 - WordPress Como CMS
+##
 
-[ ] - 13 - CSS Avançado Posicionamento
+## Contato
 
-[ ] - 14 - Tipografia Avançada
-
-[ ] - 15 - CSS com SASS
-
-[ ] - 16 - UX Design Heurísticas
-
-[ ] - 17 - Adobe XD
-
-[ ] - 18 - Vue.js 2 Completo
-
-[ ] - 19 - WordPress REST API
-
-[ ] - 20 - WooCommerce Como CMS
-
-[ ] - 21 - Bootstrap 4
-
-[ ] - 22 - Automação Front End com NPM
-
-[ ] - 23 - JavaScript e jQuery
-
-## 🛠 Tecnologias Utilizadas
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react&perline=10)](https://github.com/GilvanPOliveira)
-
-## 📬 Contato
-
-Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
-- E-mail: gilvanoliveira06@gmail.com
-- Portifólio: [Gilvan Oliveira](https://gilvanpoliveira.github.io/)
+* Portfólio: https://gilvanpoliveira.github.io  
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
