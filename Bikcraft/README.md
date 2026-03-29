@@ -1,48 +1,111 @@
-<div align="center"><a href="https://www.origamid.com/"><img src="https://i.imgur.com/ogV8LZc.png" width="50%" /></a></div>
+# Bikcraft
 
-## 📚 Sobre o Projeto
+Aplicação web desenvolvida como site de uma loja de bicicletas.
 
-Projeto em Html e Css, iniciado no Figma, no curso de UI/UX Design, onde foi idealizado um site para uma loja de bicicletas denominada BikCraft, foi criado todo layout e sua possível estrutura de navegação e agora, iniciada a sua implementação em Html e Css, com adição de JavaScript para melhor execução do site e fluidez, para assim, realizar entrega do projeto final.
+##
 
-## 🚀 Execução do Projeto
+## Sobre
 
-📌 Deploy: [https://origamid-bikecraft.vercel.app/](https://origamid-bikecraft.vercel.app/)
+Este projeto foi iniciado a partir de um layout criado no Figma durante o curso de UI/UX Design.
 
+A proposta foi transformar o design em uma aplicação real utilizando HTML, CSS e JavaScript, simulando um site institucional de uma loja de bicicletas.
 
-🎨 Layout (Figma): [https://www.figma.com/design/T0mHgYvnD5AWFa64LDZx0E/Origamid?node-id=0-1&t=uTo2or0gJuxhnbI2-1](https://www.figma.com/design/T0mHgYvnD5AWFa64LDZx0E/Origamid?node-id=0-1&t=uTo2or0gJuxhnbI2-1)
+##
 
+## Objetivo
 
-## 🧱 Estrutura do Projeto
+Consolidar conhecimentos em desenvolvimento frontend, incluindo:
 
-- `bicicletas/`
-- `css/`
-- `img/`
-- `js/`
-- `versao(Html+Css)/`
-- `bicicletas.html`
-- `contato.html`
-- `index.html`
-- `orcamento.html`
-- `seguros.html`
-- `termos.html`
+* estruturação de páginas com HTML
+* estilização com CSS
+* implementação de layouts baseados em design
+* manipulação com JavaScript
+* organização de múltiplas páginas
 
-## ▶️ Como executar localmente
+##
 
-- Abra o arquivo `index.html` no navegador **ou** use a extensão **Live Server** (VS Code) para uma melhor experiência.
+## Funcionalidades
 
-<div align="center"><img src="https://i.imgur.com/MCUmkFA.png" width="50%" /></div>
+### Interface
 
-## 🛠 Tecnologias Utilizadas
+* layout completo de site institucional
+* apresentação de produtos e serviços
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=10)](https://github.com/GilvanPOliveira)
+##
 
-## 📬 Contato
+### Navegação
 
-Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
-- E-mail: gilvanoliveira06@gmail.com
-- Portifólio: [Gilvan Oliveira](https://gilvanpoliveira.github.io/)
+* estrutura com múltiplas páginas
+* organização de conteúdo por seções
 
+##
 
-<br>
+### Interação
 
-[<- Retornar](https://github.com/GilvanPOliveira/Origamid)
+* uso de JavaScript para melhorar a experiência do usuário
+
+##
+
+## Execução
+
+* [Deploy](https://origamid-bikecraft.vercel.app/)
+
+##
+
+## Projeto
+
+* [Figma](https://www.figma.com/design/T0mHgYvnD5AWFa64LDZx0E/Origamid?node-id=0-1&t=uTo2or0gJuxhnbI2-1)
+
+##
+
+## Estrutura do Projeto
+
+```text
+bicicletas/
+css/
+img/
+js/
+versao(Html+Css)/
+bicicletas.html
+contato.html
+index.html
+orcamento.html
+seguros.html
+termos.html
+```
+
+##
+
+## Execução Local
+
+* abrir o arquivo `index.html` no navegador  
+* ou utilizar a extensão Live Server no VS Code  
+
+##
+
+## Imagens da Aplicação
+
+<div align="center">
+ <img src="https://i.imgur.com/MCUmkFA.png" width="50%" />
+</div>
+
+##
+
+## Tecnologias Utilizadas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=10)](https://skillicons.dev)
+
+* HTML  
+* CSS  
+* JavaScript  
+
+##
+
+## Contato
+
+* Portfólio: https://gilvanpoliveira.github.io  
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
+
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/Origamid)
