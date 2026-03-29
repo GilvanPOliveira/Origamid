@@ -1,38 +1,74 @@
-<div align="center"><a href="https://www.origamid.com/"><img src="https://i.imgur.com/ogV8LZc.png" width="50%" /></a></div>
+# JavaScript Básico
 
-## 📚 Sobre o Estudo
+Estudo prático focado nos fundamentos de JavaScript e manipulação do DOM.
 
-Exercícios de **JavaScript básico**, cobrindo fundamentos da linguagem e primeiros passos com DOM e eventos.
+##
 
-## 🧠 O que foi estudado
+## Sobre
 
-- Variáveis, tipos e operadores
-- Funções e escopo
-- Seleção de elementos no DOM
-- Eventos (`click`, etc.) e manipulação de classes
+Este projeto foi desenvolvido com foco na aprendizagem dos conceitos básicos de JavaScript.
 
-## 🧱 Estrutura do Estudo
+A proposta foi aplicar lógica de programação, interação com o DOM e eventos em uma aplicação simples.
 
-- `contato.html`
-- `index.html`
-- `produto.html`
-- `script.js`
-- `style.css` 
+##
 
-## ▶️ Como executar localmente
+## Objetivo
 
-- Abra o arquivo `index.html` no navegador **ou** use a extensão **Live Server** (VS Code).
+Consolidar conhecimentos em desenvolvimento frontend, incluindo:
 
-## 🛠 Tecnologias Utilizadas
+* fundamentos da linguagem JavaScript
+* manipulação de elementos no DOM
+* uso de eventos para interação
+* organização de código em funções
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=10)](https://github.com/GilvanPOliveira)
+##
 
-## 📬 Contato
+## Conteúdos
 
-Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
-- E-mail: gilvanoliveira06@gmail.com
-- Portifólio: [Gilvan Oliveira](https://gilvanpoliveira.github.io/)
+### JavaScript
 
-<br>
+* uso de variáveis, tipos e operadores
+* criação de funções e entendimento de escopo
+* seleção de elementos no DOM
+* manipulação de classes e estados
+* eventos de interação (click, etc.)
 
-[<- Retornar](https://github.com/GilvanPOliveira/Origamid/tree/main/Estudos)  
+##
+
+## Estrutura do Projeto
+
+```text
+contato.html
+index.html
+produto.html
+script.js
+style.css
+```
+
+##
+
+## Execução Local
+
+* abrir o arquivo `index.html` no navegador  
+* ou utilizar a extensão Live Server no VS Code  
+
+##
+
+## Tecnologias Utilizadas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=10)](https://skillicons.dev)
+
+* HTML  
+* CSS  
+* JavaScript  
+
+##
+
+## Contato
+
+* Portfólio: https://gilvanpoliveira.github.io  
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
+
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/Origamid/tree/main/Estudos)
